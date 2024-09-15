@@ -1,3 +1,5 @@
+// When we are done with all notes, this file should not have any `// comments` left, and we can turn it back to JSON.
+
 let json = [
   {
     "title": "Intro to Polkadot",
@@ -5,26 +7,39 @@ let json = [
     "challengeSteps": [
       {
         "id": 1,
+        // Image uses old logo.
         "imageUrl": "https://i.imgur.com/vF7XfK8.png",
         "title": "Meet the next-generation blockchain",
+        // TODO: I think we should start moving away from just "blockchain" and talk more about Web3 applications and services.
+        // 3 pillars: security, scalability, interoperability. I think this should be the basis of what we teach.
+        // "Decentralized web" is still okay, but I think we want to start using "world computer"
         "details": "Welcome to the world of Polkadot, a blockchain platform that enables communication between different blockchains - created by Gavin Wood, one of the co-founders of Ethereum. It’s able to connect with different blockchains to form an interoperable, decentralized web."
       },
       {
         "id": 2,
         "imageUrl": "https://i.imgur.com/9BQhqPY.png",
         "title": "Building blocks of Polkadot",
+        // This feels to me more like describing the Polkadot SDK.
+        // When you imagine building on Polkadot, you imagine gaining all the flexibility without sacrificing anything when building a web3 application.
         "details": "Think of Polkadot like building with Legos - you can pick and choose the pieces you want to create something unique! Imagine building a hyper-optimized blockchain, called a parachain, with specific characteristics to fit your exact need! All this is possible with Polkadot!"
       },
       {
         "id": 3,
         "imageUrl": "https://i.imgur.com/XbI361a.png",
         "title": "Unleash Versatility",
+        // There are many things you can only do on a platform like Polkadot which you cannot do on a traditional smart contract platform.
+        // https://github.com/shawntabrizi/awesome-polkadot/blob/master/playbook.md#what-unique-things-can-you-do-on-polkadot
+        // Imagine building an Web3 application where end users don't need to pay fees.
+        // Imagine building Web3 applications that can automatically schedule themselves and execute on their own.
+        // Imagine building a Web3 application which can scale up and scale down the number of execution cores it needs, just like traditional web2 autoscaling...
+        // Lets not just say "handle lots of transactions", it can do 100 parallel chains at 1,000 TPS each, so 100,000 TPS.
         "details": "Plus, because of how it's designed, Polkadot can do things other blockchains can't, like handle lots of transactions at once and connect with external blockchain systems too."
       },
       {
         "id": 4,
         "imageUrl": "https://i.imgur.com/kdwrLg5.png",
         "title": "Efficiency & customizability",
+        // Very generic words here imo. No specific feedback, but I think we want to design these statements around the pillars listed above.
         "details": "Polkadot makes blockchain transactions faster and smoother by enabling seamless collaboration between different blockchains. This boosts transaction speed and reliability, allowing for parallel processing and data transfer. With Polkadot, complex transactions are executed with ease, making it more efficient and scalable. Get ready for a seamless and exciting blockchain experience!"
       },
       {
@@ -32,8 +47,14 @@ let json = [
         "choices": [
           "A decentralized exchange platform",
           "A blockchain platform created by Gavin Wood",
+          // Polkadot is actually probably the best platform for building decentralized social media.
           "A social media platform for blockchain enthusiasts"
         ],
+        // I think this is NOT the right takeaway for "what is polkadot". Gav is important, but he is NOT polkadot.
+        // The choices I would make:
+        // - A scalability platform for Web3 Applications.
+        // - A digital currency system.
+        // - A traditional smart contract platform.
         "correctChoice": "A blockchain platform created by Gavin Wood",
         "title": "What is Polkadot?"
       },
