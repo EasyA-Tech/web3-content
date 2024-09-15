@@ -19,13 +19,13 @@
         "id": 3,
         "imageUrl": "https://i.imgur.com/XbI361a.png",
         "title": "Unleash Versatility",
-        "details": "Plus, because of how it's designed, Polkadot can do things other blockchains can't, like handle lots of transactions at once and connect with external blockchain systems too."
+        "details": "Plus, because of how it's designed, applications built on Polkadot that you can't on other blockchains. For example: enable zero transaction fees, scale up and down on-demand, and permissionlessly upgrade and evolve over time."
       },
       {
         "id": 4,
         "imageUrl": "https://i.imgur.com/kdwrLg5.png",
-        "title": "Efficiency & customizability",
-        "details": "Polkadot makes blockchain transactions faster and smoother by enabling seamless collaboration between different blockchains. This boosts transaction speed and reliability, allowing for parallel processing and data transfer. With Polkadot, complex transactions are executed with ease, making it more efficient and scalable. Get ready for a seamless and exciting blockchain experience!"
+        "title": "Scalability solved",
+        "details": "Polkadot scales Web3 applications through parallelization and sharding. Transactions to different applications can be executed in parallel, and data from these applications are also hosted in their own database. This allows applications to grow quickly without affecting the fees or speeds of other applications."
       },
       {
         "id": 5,
@@ -47,28 +47,28 @@
         "id": 7,
         "imageUrl": "https://i.imgur.com/kQKhtLG.png",
         "title": "The future of blockchain",
-        "details": "Consider legacy blockchains to be small islands separated from one another. Each island has its own set of resources and restrictions, making communication difficult. That's similar to traditional blockchains! They're all separate from one another, with their own set of laws and constraints, making it difficult to share information or collaborate. Polkadot, on the other hand, functions as a bridge between these 'islands,' uniting them so they may work more efficiently and quickly."
+        "details": "Consider legacy blockchains to be small islands separated from one another. Each island has its own needs, making scaling and communication difficult. That's similar to traditional blockchains! They're all separate from one another, with their own set of laws and constraints, making it difficult to share information or collaborate. Polkadot, on the other hand, functions as a bridge, security team, and resource provider for all of these 'islands,' empowering them to achieve their highest potential."
       },
       {
         "id": 8,
         "choices": [
-          "By allowing different parachains to collaborate and transfer data without much delay",
-          "By using advanced encryption techniques",
-          "By limiting the number of transactions that can be processed at once"
+          "Polkadot provides security to the applications connected to it",
+          "Polkadot provides community layers and interoperability between applications",
+          "Polkadot provides a scalable and flexible platform for developing applications",
+          "All of the above"
         ],
-        "correctChoice": "By allowing different parachains to collaborate and transfer data without much delay",
-        "title": "How does Polkadot improve blockchain transactions?"
+        "correctChoice": "All of the above",
+        "title": "How does Polkadot help other blockchains and Web3 applications?"
       },
       {
         "id": 9,
         "choices": [
-          "Improved speed and efficiency of blockchain transactions",
-          "Customizable blockchains that allow developers to design specific functionalities for their chain",
-          "Ability to connect different blockchains and transfer assets easily",
-          "All of the above"
+          "Polkadot uses expensive hardware to vertically scale their blockchain",
+          "Polkadot parallelizes incoming transactions and shards data across its applications",
+          "Polkadot only secures applications when there is a dispute"
         ],
-        "correctChoice": "All of the above",
-        "title": "Which of these are the benefits of Polkadot?"
+        "correctChoice": "Polkadot parallelizes incoming transactions and shards data across its applications",
+        "title": "How does Polkadot scale Web3 applications?"
       },
       {
         "id": 10,
