@@ -207,7 +207,7 @@
         "id": 11,
         "title": "Finally... getting started with Polkadot.js. Take a look at the code below to see if you can figure out how it works!",
         "language": "javascript",
-        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n// Connect to a local Polkadot node\nconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\nconst api = await ApiPromise.create({ provider: wsProvider });\n\n// Retrieve the latest block number\nconst blockNumber = await api.rpc.chain.getHeader();\nconsole.log(`Latest block number: ${blockNumber.number}`);\n}"
+        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n\t// Connect to a local Polkadot node\n\tconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\n\tconst api = await ApiPromise.create({ provider: wsProvider });\n\n\t// Retrieve the latest block number\n\tconst blockNumber = await api.rpc.chain.getHeader();\n\tconsole.log(`Latest block number: ${blockNumber.number}`);\n}"
       },
       {
         "id": 12,
