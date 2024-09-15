@@ -7,7 +7,7 @@
         "id": 1,
         "imageUrl": "https://i.imgur.com/vF7XfK8.png",
         "title": "Meet the next-generation blockchain",
-        "details": "Welcome to the world of Polkadot, a blockchain platform that enables communication between different blockchains - created by Gavin Wood, one of the co-founders of Ethereum. It’s able to connect with different blockchains to form an interoperable, decentralized web."
+        "details": "Welcome to the world of Polkadot, a blockchain platform that provides security, scalability, and interoperability for Web3 applications - created by Gavin Wood, one of the co-founders of Ethereum. It is a vision towards a decentralized world computer."
       },
       {
         "id": 2,
@@ -30,11 +30,11 @@
       {
         "id": 5,
         "choices": [
-          "A decentralized exchange platform",
-          "A blockchain platform created by Gavin Wood",
-          "A social media platform for blockchain enthusiasts"
+          "A payment platform for cryptocurrencies",
+          "A scalability solution for Web3 applications",
+          "A traditional smart contract blockchain"
         ],
-        "correctChoice": "A blockchain platform created by Gavin Wood",
+        "correctChoice": "A scalability solution for Web3 Applications.",
         "title": "What is Polkadot?"
       },
       {
