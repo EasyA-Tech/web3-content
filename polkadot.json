@@ -124,7 +124,7 @@
       {
         "id": 17,
         "tweetReason": "Share the love on Twitter - we'll be rewarding the best ones with swag and prizes! ❤️",
-        "tweetContent": "I'm building on @Polkadot with @easya_app on my #60DaysOfPolkadot!\n\nCurrently learning about... \n\n🧑‍💻 How parachains work!\n⛓ How to build blockchains with @substrate_io \n🖼 How to speed up development 10x",
+        "tweetContent": "I'm building on @Polkadot with @easya_app on my #60DaysOfPolkadot!\n\nCurrently learning about... \n\n🧑‍💻 How parachains work!\n⛓ How to build blockchains with @Polkadot \n🖼 How to speed up development 10x",
         "tweetContentUrl": ""
       }
     ]
@@ -143,13 +143,37 @@
         "id": 2,
         "imageUrl": "https://i.imgur.com/zzQnxmD.png",
         "title": "Safeguard your assets",
-        "details": "As you gather resources on the island, wallets become essential tools for managing and protecting your DOT tokens and other assets within the Polkadot ecosystem. Choose from various types of wallets, such as hardware, software and browser-based wallets, each with its own benefits and security features. Safeguard your digital treasures in popular wallets like Enkrypt, PolkaGate, SubWallet and Talisman."
+        "details": "As you gather resources on the island, wallets become essential tools for managing and protecting your DOT tokens and other assets within the Polkadot ecosystem. Safeguard your digital treasures in some of Polkadot's most popular wallets.",
+        "resources": [
+          {
+            "label": "Nova Wallet for Mobile",
+            "url": "https://novawallet.io/"
+          },
+          {
+            "label": "Talisman for Browser",
+            "url": "https://www.talisman.xyz/"
+          },
+          {
+            "label": "Ledger for Hardware",
+            "url": "https://www.ledger.com/"
+          }
+        ]
       },
       {
         "id": 3,
         "imageUrl": "https://i.imgur.com/LTd50aN.png",
-        "title": "Not forgetting about mobile",
-        "details": "When you’re developing for the mainstream, it's important to make sure your program can work with popular mobile wallets. That means integrating a wallet SDK or API so users can easily connect and interact with their Polkadot accounts. Good news: wallets like Polkawallet and Fearless Wallet have resources to help you do just that!"
+        "title": "Account abstractions",
+        "details": "Polkadot also offers a number of useful account abstractions like customizable proxies and multisigs, which can add more flexibility to your wallets. Easily create an manage these kinds of accounts using popular web applications.",
+        "resources": [
+          {
+            "label": "Polkadot Multisig by Signet",
+            "url": "https://polkadotmultisig.com/"
+          },
+          {
+            "label": "Multix by ChainSafe",
+            "url": "https://multix.chainsafe.io/"
+          }
+        ]
       },
       {
         "id": 4,
@@ -160,9 +184,9 @@
       {
         "id": 5,
         "title": "First steps",
-        "details": "As we work towards building our parachain in the hope of connecting the different blockchain islands, let's check our current balance using the code below:",
+        "details": "As we work towards building our parachain in the hope of connecting the different blockchain islands, let's check the balance of the Polkadot Treasury account using the code below:",
         "language": "javascript",
-        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\nconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\nconst api = await ApiPromise.create({ provider: wsProvider });\nconst address = 'FAKEADDRESS';\nconst balance = await api.query.system.account(address);\nconsole.log(`Balance of ${address}: ${balance}`);\n}"
+        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n\tconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\n\tconst api = await ApiPromise.create({ provider: wsProvider });\n\tconst address = '13UVJyLnbVp9RBZYFwFGyDvVd1y27Tt8tkntv6Q7JVPhFsTB';\n\tconst balance = await api.query.system.account(address);\n\tconsole.log(`Balance of ${address}: ${balance}`);\n}"
       },
       {
         "id": 6,
@@ -207,7 +231,7 @@
         "id": 11,
         "title": "Finally... getting started with Polkadot.js. Take a look at the code below to see if you can figure out how it works!",
         "language": "javascript",
-        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n// Connect to a local Polkadot node\nconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\nconst api = await ApiPromise.create({ provider: wsProvider });\n\n// Retrieve the latest block number\nconst blockNumber = await api.rpc.chain.getHeader();\nconsole.log(`Latest block number: ${blockNumber.number}`);\n}"
+        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n\t// Connect to a local Polkadot node\n\tconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\n\tconst api = await ApiPromise.create({ provider: wsProvider });\n\n\t// Retrieve the latest block number\n\tconst blockNumber = await api.rpc.chain.getHeader();\n\tconsole.log(`Latest block number: ${blockNumber.number}`);\n}"
       },
       {
         "id": 12,
