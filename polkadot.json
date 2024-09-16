@@ -143,13 +143,37 @@
         "id": 2,
         "imageUrl": "https://i.imgur.com/zzQnxmD.png",
         "title": "Safeguard your assets",
-        "details": "As you gather resources on the island, wallets become essential tools for managing and protecting your DOT tokens and other assets within the Polkadot ecosystem. Safeguard your digital treasures in popular wallets like Nova Wallet for mobile, Talisman for the browser, or Ledger for hardware."
+        "details": "As you gather resources on the island, wallets become essential tools for managing and protecting your DOT tokens and other assets within the Polkadot ecosystem. Safeguard your digital treasures in some of Polkadot's most popular wallets.",
+        "resources": [
+          {
+            "label": "Nova Wallet for Mobile",
+            "url": "https://novawallet.io/"
+          },
+          {
+            "label": "Talisman for Browser",
+            "url": "https://www.talisman.xyz/"
+          },
+          {
+            "label": "Ledger for Hardware",
+            "url": "https://www.ledger.com/"
+          }
+        ]
       },
       {
         "id": 3,
         "imageUrl": "https://i.imgur.com/LTd50aN.png",
         "title": "Account abstractions",
-        "details": "Polkadot also offers a number of useful account abstractions like customizable proxies and multisigs, which can add more flexibility to your wallets. Easily create an manage these kinds of account using the Polkadot Multisig or Multix web application."
+        "details": "Polkadot also offers a number of useful account abstractions like customizable proxies and multisigs, which can add more flexibility to your wallets. Easily create an manage these kinds of accounts using popular web applications.",
+        "resources": [
+          {
+            "label": "Polkadot Multisig by Signet",
+            "url": "https://polkadotmultisig.com/"
+          },
+          {
+            "label": "Multix by ChainSafe",
+            "url": "https://multix.chainsafe.io/"
+          }
+        ]
       },
       {
         "id": 4,
