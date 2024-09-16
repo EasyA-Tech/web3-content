@@ -97,7 +97,7 @@
         "id": 13,
         "imageUrl": "https://i.imgur.com/ZtKYg13.png",
         "title": "Parachains",
-        "details": "For everything else, Polkadot has the parachain ecosystem! Parachains ('parallel-chains') are blockchains built by engineering teams in the Polkadot community. They extend the functionality of Polkadot or provide their own. You can find DeFi platforms, prediction markets, NFT marketplaces, and more among the parachain community."
+        "details": "For everything else, Polkadot has the parachain ecosystem! Parachains ('parallel-chains') are blockchains built by engineering teams in the Polkadot community. They extend the functionality of Polkadot or provide their own custom services. You can find DeFi platforms, prediction markets, NFT marketplaces, and more among the parachain ecosystem."
       },
       {
         "id": 14,
