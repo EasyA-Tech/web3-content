@@ -65,7 +65,7 @@
         "choices": [
           "Polkadot uses expensive hardware to vertically scale their blockchain",
           "Polkadot parallelizes incoming transactions and shards data across its applications",
-          "Polkadot only secures applications when there is a dispute"
+          "Polkadot optimistically secures applications and checks for transaction validity only when there is a dispute"
         ],
         "correctChoice": "Polkadot parallelizes incoming transactions and shards data across its applications",
         "title": "How does Polkadot scale Web3 applications?"
