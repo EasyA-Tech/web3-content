@@ -41,7 +41,7 @@
         "id": 6,
         "imageUrl": "https://i.imgur.com/NeDZPZr.png",
         "title": "Breaking barriers",
-        "details": "Polkadot is highly adaptable, so developers can choose how they want to build their own blockchain. You can use prebuilt templates, design custom applications, or even re-architect the low level system! The possibilities are endless!"
+        "details": "Polkadot is highly adaptable, so developers can choose how they want to build their own blockchain. You can use prebuilt templates, design custom applications, or even re-architect the low-level system! The possibilities are endless!"
       },
       {
         "id": 7,
@@ -85,7 +85,7 @@
         "id": 11,
         "imageUrl": "https://i.imgur.com/mli9QVH.png",
         "title": "Scaling itself",
-        "details": "Polkadot is more than just a scaling solution for other applications and blockchains, it scales itself! Features on Polkadot are also parallelized and sharded allowing cheap and efficient access for all of its users. That is why when using Polkadot, you can expect fast speeds, low fees, and high security."
+        "details": "Polkadot is more than just a scaling solution for other applications and blockchains, it scales itself! Features on Polkadot are also parallelized and sharded, allowing cheap and efficient access for all of its users. That is why when using Polkadot, you can expect fast speeds, low fees, and high security."
       },
       {
         "id": 12,
@@ -103,7 +103,7 @@
         "id": 14,
         "imageUrl": "https://i.imgur.com/YQNFrNk.png",
         "title": "Kusama - Polkadot's canary network",
-        "details": "Polkadot is arguably the most resilient blockchain system today, and much of that can be attributed to Kusama. Think of Kusama as a production-level, high-speed, experimental version of Polkadot, where things move faster and innovation happens quickly. Developers deploy new ideas and features to Kusama first, ensuring everything is tested before bringing those features to Polkadot."
+        "details": "Polkadot is arguably the most resilient blockchain network today, and much of that can be attributed to Kusama. Think of Kusama as a production-level, high-speed, experimental version of Polkadot, where things move faster and innovation happens quickly. Developers deploy new ideas and features to Kusama first, ensuring everything is tested before being brought to Polkadot. Kusama, at times, can even have a mind of its own!"
       },
       {
         "id": 15,
