@@ -7,25 +7,25 @@
         "id": 1,
         "imageUrl": "https://i.imgur.com/vF7XfK8.png",
         "title": "Meet the next-generation blockchain",
-        "details": "Welcome to the world of Polkadot, a platform for blockchains and Web3 applications - created by Gavin Wood, one of the co-founders of Ethereum. It is a vision towards a free, open, and decentralized world computer."
+        "details": "Welcome to the world of Polkadot, a platform for Web3 applications and services - created by Gavin Wood, one of the co-founders of Ethereum. It is a vision towards a free, open, and decentralized world computer."
       },
       {
         "id": 2,
         "imageUrl": "https://i.imgur.com/9BQhqPY.png",
         "title": "Building blocks of Polkadot",
-        "details": "Polkadot is designed to solve 3 fundamental problems in the blockchain space: scalability, security, and interoperability. The Polkadot ecosystem is composed of many independent web3 applications, like blockchains and DApps. Imagine building or using hyper-optimized blockchains, called a parachains, designed to fit to your exact needs! All of this is possible with Polkadot!"
+        "details": "Polkadot is designed to solve 3 fundamental problems in the blockchain space: scalability, security, and interoperability. The Polkadot ecosystem is composed of many independent web3 applications, like blockchains, smart contracts, and DApps. With Polkadot, you too can design and deploy applications to fit to your exact needs - all on a secure, scalable network!"
       },
       {
         "id": 3,
         "imageUrl": "https://i.imgur.com/kdwrLg5.png",
         "title": "Scalability solved",
-        "details": "Polkadot scales Web3 applications through parallelization and sharding. Transactions to different applications can be executed in parallel, and data from these applications are also hosted in their own blockchain. This allows applications to grow quickly without affecting the fees or speeds of other applications."
+        "details": "Polkadot scales Web3 applications through parallelization, sharding, and shared security. Transactions across different applications are executed in parallel, and each application’s data is hosted on its own blockchain. This enables applications to grow quickly without impacting the fees or speeds of others, all while benefiting from Polkadot’s robust economic security."
       },
       {
         "id": 4,
         "imageUrl": "https://i.imgur.com/XbI361a.png",
-        "title": "Unleash Versatility",
-        "details": "Plus, because of how it's designed, applications built on Polkadot can do things you can't do on other blockchains. For example: enable zero transaction fees, scale up and down on-demand, and permissionlessly upgrade and evolve over time."
+        "title": "Unleash versatility",
+        "details": "Plus, Polkadot’s unique design allows applications to do things that aren’t possible on other blockchains. For example: enable zero transaction fees, scale up and down on-demand, and permissionlessly upgrade and evolve over time."
       },
       {
         "id": 5,
@@ -103,7 +103,7 @@
         "id": 14,
         "imageUrl": "https://i.imgur.com/YQNFrNk.png",
         "title": "Kusama - Polkadot's canary network",
-        "details": "Polkadot is arguably the most resilient blockchain system today, and a lot of that is thanks to Kusama. You can think of Kusama as a second public deployment of the Polkadot Network. Developers can deploy features to Kusama before they bring them to Polkadot, ensuring that bugs are found in production before they come to Polkadot."
+        "details": "Polkadot is arguably the most resilient blockchain system today, and much of that can be attributed to Kusama. Think of Kusama as a high-speed, experimental version of Polkadot, where things move faster and innovation happens quickly. Developers can deploy new features to Kusama first, ensuring any bugs are caught in a live environment before they bring those features to Polkadot."
       },
       {
         "id": 15,
