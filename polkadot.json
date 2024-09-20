@@ -7,68 +7,68 @@
         "id": 1,
         "imageUrl": "https://i.imgur.com/vF7XfK8.png",
         "title": "Meet the next-generation blockchain",
-        "details": "Welcome to the world of Polkadot, a blockchain platform that enables communication between different blockchains - created by Gavin Wood, one of the co-founders of Ethereum. It’s able to connect with different blockchains to form an interoperable, decentralized web."
+        "details": "Welcome to the world of Polkadot, a platform for Web3 applications and services - created by Gavin Wood, one of the co-founders of Ethereum. It is a vision towards a free, open, and decentralized world computer."
       },
       {
         "id": 2,
         "imageUrl": "https://i.imgur.com/9BQhqPY.png",
         "title": "Building blocks of Polkadot",
-        "details": "Think of Polkadot like building with Legos - you can pick and choose the pieces you want to create something unique! Imagine building a hyper-optimized blockchain, called a parachain, with specific characteristics to fit your exact need! All this is possible with Polkadot!"
+        "details": "Polkadot is designed to solve 3 fundamental problems in the blockchain space: scalability, security, and interoperability. The Polkadot ecosystem is composed of many independent web3 applications, like blockchains, smart contracts, and DApps. With Polkadot, you too can design and deploy applications to fit your exact needs - all on a secure, scalable network!"
       },
       {
         "id": 3,
-        "imageUrl": "https://i.imgur.com/XbI361a.png",
-        "title": "Unleash Versatility",
-        "details": "Plus, because of how it's designed, Polkadot can do things other blockchains can't, like handle lots of transactions at once and connect with external blockchain systems too."
+        "imageUrl": "https://i.imgur.com/kdwrLg5.png",
+        "title": "Scalability solved",
+        "details": "Polkadot scales Web3 applications through parallelization, sharding, and shared security. Transactions across different applications are executed in parallel, and each application’s data is hosted on its own blockchain. This enables applications to grow quickly without impacting the fees or speeds of others, all under Polkadot’s robust security."
       },
       {
         "id": 4,
-        "imageUrl": "https://i.imgur.com/kdwrLg5.png",
-        "title": "Efficiency & customizability",
-        "details": "Polkadot makes blockchain transactions faster and smoother by enabling seamless collaboration between different blockchains. This boosts transaction speed and reliability, allowing for parallel processing and data transfer. With Polkadot, complex transactions are executed with ease, making it more efficient and scalable. Get ready for a seamless and exciting blockchain experience!"
+        "imageUrl": "https://i.imgur.com/XbI361a.png",
+        "title": "Unleash versatility",
+        "details": "Plus, Polkadot’s unique design allows applications to do things that aren’t possible on other blockchains. For example, they can enable zero transaction fees, scale up and down on-demand, and permissionlessly upgrade and evolve over time."
       },
       {
         "id": 5,
         "choices": [
-          "A decentralized exchange platform",
-          "A blockchain platform created by Gavin Wood",
-          "A social media platform for blockchain enthusiasts"
+          "A payment platform for cryptocurrencies",
+          "A platform for scaling Web3 applications",
+          "A traditional smart contract platform"
         ],
-        "correctChoice": "A blockchain platform created by Gavin Wood",
+        "correctChoice": "A platform for scaling Web3 applications",
         "title": "What is Polkadot?"
       },
       {
         "id": 6,
         "imageUrl": "https://i.imgur.com/NeDZPZr.png",
         "title": "Breaking barriers",
-        "details": "Polkadot is super adaptable, so developers can make their own blockchains to fit their needs. That means you can use Polkadot for all kinds of different things - no more settling for pre-made blockchains! Plus, Polkadot lets you easily move assets between different blockchains, so the possibilities are endless!"
+        "details": "Polkadot is highly adaptable, so developers can choose how they want to build their own blockchain. You can use prebuilt templates, design custom applications, or even re-architect the low-level system! The possibilities are endless!"
       },
       {
         "id": 7,
         "imageUrl": "https://i.imgur.com/kQKhtLG.png",
         "title": "The future of blockchain",
-        "details": "Consider legacy blockchains to be small islands separated from one another. Each island has its own set of resources and restrictions, making communication difficult. That's similar to traditional blockchains! They're all separate from one another, with their own set of laws and constraints, making it difficult to share information or collaborate. Polkadot, on the other hand, functions as a bridge between these 'islands,' uniting them so they may work more efficiently and quickly."
+        "details": "Consider traditional blockchains to be small islands separated from one another. Each island operates independently, making scaling and communication difficult. Polkadot provides connectivity, security, and resources for all of these 'islands,' empowering them to achieve their highest potential."
       },
       {
         "id": 8,
         "choices": [
-          "By allowing different parachains to collaborate and transfer data without much delay",
-          "By using advanced encryption techniques",
-          "By limiting the number of transactions that can be processed at once"
+          "Polkadot provides security to the applications connected to it",
+          "Polkadot provides communication channels and interoperability between applications",
+          "Polkadot provides a scalable and flexible platform for developing applications",
+          "All of the above"
         ],
-        "correctChoice": "By allowing different parachains to collaborate and transfer data without much delay",
-        "title": "How does Polkadot improve blockchain transactions?"
+        "correctChoice": "All of the above",
+        "title": "How does Polkadot help other blockchains and Web3 applications?"
       },
       {
         "id": 9,
         "choices": [
-          "Improved speed and efficiency of blockchain transactions",
-          "Customizable blockchains that allow developers to design specific functionalities for their chain",
-          "Ability to connect different blockchains and transfer assets easily",
-          "All of the above"
+          "Polkadot uses expensive hardware to vertically scale their blockchain",
+          "Polkadot parallelizes incoming transactions and shards data across its applications",
+          "Polkadot optimistically secures applications and checks for transaction validity only when there is a dispute"
         ],
-        "correctChoice": "All of the above",
-        "title": "Which of these are the benefits of Polkadot?"
+        "correctChoice": "Polkadot parallelizes incoming transactions and shards data across its applications",
+        "title": "How does Polkadot scale Web3 applications?"
       },
       {
         "id": 10,
@@ -83,37 +83,37 @@
       },
       {
         "id": 11,
-        "imageUrl": "https://i.imgur.com/YQNFrNk.png",
-        "title": "Kusama - Polkadot's wild cousin",
-        "details": "When you're developing a website, you usually have three stages: development, staging, and production. But in the blockchain world, it's a bit different. There's usually just development and production - that is, until you meet Kusama! Kusama is like Polkadot's adventurous cousin. It lets developers try out their parachains under real world conditions in a “canary network” before they're released on the main Polkadot network."
+        "imageUrl": "https://i.imgur.com/mli9QVH.png",
+        "title": "Scaling itself",
+        "details": "Polkadot is more than just a scaling solution for other applications and blockchains, it scales itself! Features on Polkadot are also parallelized and sharded, allowing cheap and efficient access for all of its users. That is why when using Polkadot, you can expect fast speeds, low fees, and high security."
       },
       {
         "id": 12,
         "imageUrl": "https://i.imgur.com/SHmsZPe.png",
-        "title": "Canary network - explained!",
-        "details": "A canary network is a live network that allows developers to test their blockchain under real-world conditions before launching it on the mainnet. It’s different from a testnet because it carries real value and transactions, providing a more authentic environment for testing. Think of Kusama like a fun and exciting adventure, where developers can take risks and test their limits. This helps create a stronger and more secure Polkadot ecosystem in the end!"
+        "title": "Play on Polkadot",
+        "details": "Polkadot offers a suite of features available to all $DOT holders. You can create and distribute new assets and NFTs, participate in decentralized governance, secure the network and earn rewards via staking, securely bridge to other blockchains, and soon even deploy smart contracts directly to the network."
       },
       {
         "id": 13,
-        "imageUrl": "https://i.imgur.com/mli9QVH.png",
-        "title": "Double the innovation: parallel development on Polkadot and Kusama",
-        "details": "Polkadot and Kusama operate in parallel, with new features and upgrades being tested on Kusama before actually being implemented on Polkadot. That way, developers like you ensure that new features are thoroughly tested and refined before they're released on the main network, providing a better experience for users."
+        "imageUrl": "https://i.imgur.com/ZtKYg13.png",
+        "title": "Parachains",
+        "details": "For everything else, Polkadot has the parachain ecosystem! Parachains ('parallel-chains') are blockchains built by engineering teams in the Polkadot community. They extend the functionality of Polkadot or provide their own custom services. You can find DeFi platforms, prediction markets, NFT marketplaces, and more among the parachain ecosystem."
       },
       {
         "id": 14,
-        "imageUrl": "https://i.imgur.com/ZtKYg13.png",
-        "title": "Their future together",
-        "details": "Together, Polkadot and Kusama form a dynamic duo that encourages fearless exploration and experimentation. Picture your parachains as connections between the island blockchains, constantly growing and evolving, ready to connect with other blockchains and adapt to the ever-changing tides. This allows your parachains to continuously grow and change over time, evolving into something better. The only limit is how fast you can evolve!"
+        "imageUrl": "https://i.imgur.com/YQNFrNk.png",
+        "title": "Kusama - Polkadot's canary network",
+        "details": "Polkadot is arguably the most resilient blockchain network today, and much of that can be attributed to Kusama. Think of Kusama as a production-level, high-speed, experimental version of Polkadot, where things move faster and innovation happens quickly. Developers deploy new ideas and features to Kusama first, ensuring everything is tested before being brought to Polkadot. Kusama, at times, can even have a mind of its own!"
       },
       {
         "id": 15,
         "choices": [
-          "Kusama is a Cosmos app-chain",
+          "Kusama is a parachain on Polkadot",
           "Kusama is a canary network for Polkadot",
-          "Polkadot is a fork of Kusama/Dotsama"
+          "Kusama is a competitor to Polkadot"
         ],
         "correctChoice": "Kusama is a canary network for Polkadot",
-        "title": "What is the relationship between Polkadot and Kusama/Dotsama?"
+        "title": "What is Kusama?"
       },
       {
         "id": 16,
@@ -124,7 +124,7 @@
       {
         "id": 17,
         "tweetReason": "Share the love on Twitter - we'll be rewarding the best ones with swag and prizes! ❤️",
-        "tweetContent": "I'm building on @Polkadot with @easya_app on my #60DaysOfPolkadot!\n\nCurrently learning about... \n\n🧑‍💻 How parachains work!\n⛓ How to build blockchains with @substrate_io \n🖼 How to speed up development 10x",
+        "tweetContent": "I'm building on @Polkadot with @easya_app on my #360DaysOfPolkadot!\n\nCurrently learning about... \n\n🧑‍💻 How parachains work!\n⛓ How to build blockchains with @Polkadot \n🖼 How to speed up development 10x",
         "tweetContentUrl": ""
       }
     ]
