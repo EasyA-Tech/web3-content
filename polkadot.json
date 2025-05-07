@@ -1,705 +1,1091 @@
 [
   {
-    "title": "Intro to Polkadot",
+    "title": "The origin story",
     "index": 1,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/vF7XfK8.png",
-        "title": "Meet the next-generation blockchain",
-        "details": "Welcome to the world of Polkadot, a platform for Web3 applications and services - created by Gavin Wood, one of the co-founders of Ethereum. It is a vision towards a free, open, and decentralized world computer."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2FGroup%201597881793.png?alt=media&token=df09bdb1-14ed-42a2-8fb7-7e7afde7e82e",
+        "title": "What Polkadot is",
+        "detailsMarkdown": "Polkadot. A word with many meanings. To most, polka dot is a pattern. A set of coloured dots. We remember making polka dot patterns at school with marker pens or paint. To those who took their artistic skills a bit further, we know the famed polka dot pieces of art by [Yayoi Kusama](https://en.wikipedia.org/wiki/Yayoi_Kusama?utm_source=easya&utm_medium=easya&utm_campaign=challenges) (the importance of which you'll find out later). If we zoom into another subsection (people in Web3), Polkadot is a name most people have heard of, but don't really understand. Can you build on it? Who's building on it? What's the point of it all?\n\nIn these challenges, we're going to put colour on the canvas. We'll see why Polkadot was created, and paint the picture of what it really is. By the end, you'll understand what this technology is all about, and even have built with it. But we're going to start with the most fascinating part of it all: the origin story. And it's one which we guarantee you'll find magical. As you'll see, fact truly is stranger than fiction."
       },
       {
         "id": 2,
-        "imageUrl": "https://i.imgur.com/9BQhqPY.png",
-        "title": "Building blocks of Polkadot",
-        "details": "Polkadot is designed to solve 3 fundamental problems in the blockchain space: scalability, security, and interoperability. The Polkadot ecosystem is composed of many independent web3 applications, like blockchains, smart contracts, and DApps. With Polkadot, you too can design and deploy applications to fit your exact needs - all on a secure, scalable network!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-02.png?alt=media&token=c049d97d-d10d-4c7f-b545-9367052fbb8a",
+        "title": "The demiurge",
+        "detailsMarkdown": "When we were at school making our polka dot masterpieces in art class, we were the ones making the dots. You see, everything in this world has an originator, and technology is no different. Indeed, Polkadot in Web3 is no different.\n\nTake a moment to look at the picture above. What does it capture? What are the emotions at play? Who are the characters?"
       },
       {
         "id": 3,
-        "imageUrl": "https://i.imgur.com/kdwrLg5.png",
-        "title": "Scalability solved",
-        "details": "Polkadot scales Web3 applications through parallelization, sharding, and shared security. Transactions across different applications are executed in parallel, and each application’s data is hosted on its own blockchain. This enables applications to grow quickly without impacting the fees or speeds of others, all under Polkadot’s robust security."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-02.png?alt=media&token=c049d97d-d10d-4c7f-b545-9367052fbb8a",
+        "title": "The man. The legend.",
+        "detailsMarkdown": "Chances are you recognise the guy on the right. It's Vitalik. Yep, Vitalik Buterin, one of the co-founders of Ethereum (actually the only co-founder still at the Ethereum Foundation). There's a TV screen behind them. It's showing blocks being produced on Ethereum. Now look at the bottom left of the picture. Notice how there's a Swiss flag there. That's because they're in Switzerland. \n\nBut who's the guy on the left? The one with the blurry face. And why is he so happy? He looks way more excited than Vitalik. He looks giddy. He looks wildly happy, like a little kid would be on discovering something new. On accomplishing something big.",
+        "resources": [
+          {
+            "label": "Gav's Tweet With Vitalik",
+            "url": "https://x.com/gavofyork/status/585878318391676929?s=46&t=VhzZk_CEQ_Dctd-EkgSdRA?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 4,
-        "imageUrl": "https://i.imgur.com/XbI361a.png",
-        "title": "Unleash versatility",
-        "details": "Plus, Polkadot’s unique design allows applications to do things that aren’t possible on other blockchains. For example, they can enable zero transaction fees, scale up and down on-demand, and permissionlessly upgrade and evolve over time."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-02.png?alt=media&token=c049d97d-d10d-4c7f-b545-9367052fbb8a",
+        "title": "Who is he?",
+        "detailsMarkdown": "This man is the unsung hero of Web3. He's so giddy because he's just got Ethereum working. You might not know his name, but it's literally the only name on the ethereum yellow paper. Yep, THE Ethereum yellow paper - the project that made the most millionaires in history. \n\nSo who is this man? What is his name? And why are we talking about him? Well, to understand any man, we must first look at the boy. We must understand his story. So, now that we have your curiosity, it's time for a story.\n\nThis is the story of a little boy from Lancaster, England. A boy who grew up the child of a single mother. And how he ended up inventing Web3."
       },
       {
         "id": 5,
-        "choices": [
-          "A payment platform for cryptocurrencies",
-          "A platform for scaling Web3 applications",
-          "A traditional smart contract platform"
-        ],
-        "correctChoice": "A platform for scaling Web3 applications",
-        "title": "What is Polkadot?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-05-updated.png?alt=media&token=0a3aec75-4f9f-4bdb-be07-3c43d2b0efb3",
+        "title": "A humble beginning",
+        "detailsMarkdown": "Born in Lancaster, England, little Gavin didn't have the easiest childhood. Raised by a single mother and an abusive husband, he spent much of his early life feeling abandoned."
       },
       {
         "id": 6,
-        "imageUrl": "https://i.imgur.com/NeDZPZr.png",
-        "title": "Breaking barriers",
-        "details": "Polkadot is highly adaptable, so developers can choose how they want to build their own blockchain. You can use prebuilt templates, design custom applications, or even re-architect the low-level system! The possibilities are endless!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-05.png?alt=media&token=51632607-c14e-4bb1-b6ea-672c7e2c2291",
+        "title": "An escape",
+        "detailsMarkdown": "But young Gav found peace in maths and code. Doing his PhD in music visualisation, he eventually got a job working in video games. This in turn led him to research at Microsoft, until 2011…"
       },
       {
         "id": 7,
-        "imageUrl": "https://i.imgur.com/kQKhtLG.png",
-        "title": "The future of blockchain",
-        "details": "Consider traditional blockchains to be small islands separated from one another. Each island operates independently, making scaling and communication difficult. Polkadot provides connectivity, security, and resources for all of these 'islands,' empowering them to achieve their highest potential."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-06.png?alt=media&token=950100ec-f44d-4222-8028-cd34016abec5",
+        "title": "The first encounter",
+        "detailsMarkdown": "In 2011, Gav was doing what most curious people do in their free time: reading. More precisely, he'd stumbled across an article about Bitcoin. The article talked about how the price of Bitcoin had skyrocketed. All the way from $1, right up to $5. Gav was even about to buy some on the Bitcoin exchange Mt Gox. But he wasn't interested in making a quick buck. And he let it slide."
       },
       {
         "id": 8,
-        "choices": [
-          "Polkadot provides security to the applications connected to it",
-          "Polkadot provides communication channels and interoperability between applications",
-          "Polkadot provides a scalable and flexible platform for developing applications",
-          "All of the above"
-        ],
-        "correctChoice": "All of the above",
-        "title": "How does Polkadot help other blockchains and Web3 applications?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-07.png?alt=media&token=b7b6159c-f5e8-4e82-bc96-3c49b2fbbd24",
+        "title": "Another encounter",
+        "detailsMarkdown": "Then in early 2013, Gav again found himself reading an article about Bitcoin. This time, it wasn't just talking about the price. Instead, it was talking about decentralisation. And this got Gav hooked. So he emailed the person in the article, which led him to a London squat. But this wasn't just any squat."
       },
       {
         "id": 9,
-        "choices": [
-          "Polkadot uses expensive hardware to vertically scale their blockchain",
-          "Polkadot parallelizes incoming transactions and shards data across its applications",
-          "Polkadot optimistically secures applications and checks for transaction validity only when there is a dispute"
-        ],
-        "correctChoice": "Polkadot parallelizes incoming transactions and shards data across its applications",
-        "title": "How does Polkadot scale Web3 applications?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-08%20(1).png?alt=media&token=1cdd7287-4ed4-486c-b9ca-891624984e04",
+        "title": "The Bitcoin strongold",
+        "detailsMarkdown": "This was a huge, five-storey office squat. Right in central London. And it was filled with true Bitcoin OGs, all just coding. Johnny Bitcoin, Barry bitcoin, Amir Taaki, were all squatting in that same building. Even Mihai Alisie (who'd later help co-found Ethereum) was there. \n\nFun fact: when Gav was introduced to Mihai, Mihai was literally still in bed with his girlfriend Roxana - that's how informal this squat truly was. In many ways, this was the golden age of Bitcoin. Bitcoin core devs just coding away and building. Not caring about the money. Living humbly and with each other - driven by the vision and the mission set out by Satoshi.",
+        "resources": [
+          {
+            "label": "Gavin Wood's Story Podcast",
+            "url": "https://youtu.be/npnbqnlQtoQ?si=qybL-8pczsVvWbVf?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 10,
-        "choices": [
-          "It is less secure than traditional blockchains",
-          "It cannot connect with non-blockchain systems",
-          "It allows for collaboration among different blockchains",
-          "It has a limited number of customizable features"
-        ],
-        "correctChoice": "It allows for collaboration among different blockchains",
-        "title": "How does Polkadot differ from traditional blockchains?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-09.png?alt=media&token=694ccce0-9d0f-4bb2-82f6-b914ad4f9366",
+        "title": "Down the rabbit hole",
+        "detailsMarkdown": "And just like that, Gav was hooked. He was in the crypto community, and soon started getting to know all the visionaries who were building this new industry. Except that it wasn't really even an industry at the time - it was more a set of people with ideals and sheer, raw passion. \n\nIt wasn't long before Gav was introduced to a young man named Vitalik, who'd written a whitepaper for a little thing he was calling Ethereum. Gav read it, and he instantly fell in love with the concept. He realised he absolutely needed to dedicate his life to this. So he started coding. But there was just one problem…"
       },
       {
         "id": 11,
-        "imageUrl": "https://i.imgur.com/mli9QVH.png",
-        "title": "Scaling itself",
-        "details": "Polkadot is more than just a scaling solution for other applications and blockchains, it scales itself! Features on Polkadot are also parallelized and sharded, allowing cheap and efficient access for all of its users. That is why when using Polkadot, you can expect fast speeds, low fees, and high security."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-1-step-10.png?alt=media&token=63deb92b-1c3f-48ed-95b8-f5854c7bf7f7",
+        "title": "Ideals don't pay the rent",
+        "detailsMarkdown": "Gav was broke. Gav has just £500 to his name: enough for a single month's rent. And with two failed startups behind him, it looked like it was finally time for Gav to throw in the towel. To give in. To give up on these lofty ideas. To return to reality. And do what many ambitious young people end up doing: get a job at a bank.",
+        "videoUrl": "https://youtu.be/npnbqnlQtoQ?si=qybL-8pczsVvWbVf",
+        "autoplay": true
       },
       {
         "id": 12,
-        "imageUrl": "https://i.imgur.com/SHmsZPe.png",
-        "title": "Play on Polkadot",
-        "details": "Polkadot offers a suite of features available to all $DOT holders. You can create and distribute new assets and NFTs, participate in decentralized governance, secure the network and earn rewards via staking, securely bridge to other blockchains, and soon even deploy smart contracts directly to the network."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-1-step-11.png?alt=media&token=4edb9f5f-d3c1-4e02-b074-3949a5d186b5",
+        "title": "An archangel",
+        "detailsMarkdown": "At this point, Gav was literally about to accept an offer at Barclays. But something happened that would end up changing the course of history forever. An archangel appeared. And this angel appeared in the form of a Johnny Bitcoin.\n\nJohnny threw Gav a lifeline: £1,000. Enough for rent and some food. So Gav could work on Ethereum."
       },
       {
         "id": 13,
-        "imageUrl": "https://i.imgur.com/ZtKYg13.png",
-        "title": "Parachains",
-        "details": "For everything else, Polkadot has the parachain ecosystem! Parachains ('parallel-chains') are blockchains built by engineering teams in the Polkadot community. They extend the functionality of Polkadot or provide their own custom services. You can find DeFi platforms, prediction markets, NFT marketplaces, and more among the parachain ecosystem."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-12.png?alt=media&token=5c65f936-8e45-4af4-8454-e154239fd98b",
+        "title": "The saving grace",
+        "detailsMarkdown": "And with that, the course of history changed. The timeline shifted. Gav turned down the job in banking, and got to work on Ethereum. Looking back, it's pretty crazy to think that this is how we got the Ethereum yellow paper, the Ethereum Virtual Machine (EVM), and even the programming language Solidity. All those were created by Gav. And without Johnny Bitcoin, none of it would have existed.\n\nLook at the Ethereum yellow paper. There's only one name on it: Dr Gavin Wood. And now you know the name of the guy in that picture with the blurry face.",
+        "resources": [
+          {
+            "label": "Ethereum Yellow Paper",
+            "url": "https://ethereum.github.io/yellowpaper/paper.pdf?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 14,
-        "imageUrl": "https://i.imgur.com/YQNFrNk.png",
-        "title": "Kusama - Polkadot's canary network",
-        "details": "Polkadot is arguably the most resilient blockchain network today, and much of that can be attributed to Kusama. Think of Kusama as a production-level, high-speed, experimental version of Polkadot, where things move faster and innovation happens quickly. Developers deploy new ideas and features to Kusama first, ensuring everything is tested before being brought to Polkadot. Kusama, at times, can even have a mind of its own!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-1-step-13.png?alt=media&token=0a019b9e-4054-46df-9872-6819abd017b7",
+        "title": "Paying back the favour",
+        "detailsMarkdown": "Fun fact: after Ethereum launched, Gav paid Johnny back 5,000 ETH. At the time of writing, that's about $16 million. Safe to say, Gav settled his dues!"
       },
       {
         "id": 15,
-        "choices": [
-          "Kusama is a parachain on Polkadot",
-          "Kusama is a canary network for Polkadot",
-          "Kusama is a competitor to Polkadot"
-        ],
-        "correctChoice": "Kusama is a canary network for Polkadot",
-        "title": "What is Kusama?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-1-step-14.png?alt=media&token=07fc9e3c-50a4-4d2f-a648-c9924ee6c499",
+        "title": "Wait a minute",
+        "detailsMarkdown": "But hang on a sec. How did Gav do this? How did he build something so perfect all in just a matter of months? And we're not just talking about the speed. Gav had never actually built a blockchain before. As [the TikTok trend](https://www.tiktok.com/@acmonza/video/7325148235868278048?utm_source=easya&utm_medium=easya&utm_campaign=challenges) goes, if someone had asked him: "first time?". Gav wouldn't have been able to say: "Nuh uh, not my first time". This was his first time. His first date with the blockchain. \n\nAnd we all know how first dates go… \n\nThe answer is that Gav's creation was far from perfect. Ethereum was far from perfect.\n\nIn the next challenge, we'll see what he did next. You can probably guess, but the painter took out his brushes once again. And this time, he was painting dots…"
       },
       {
         "id": 16,
-        "imageUrl": "https://i.imgur.com/pnFudYZ.png",
-        "title": "Polkadot pioneer!",
-        "details": "Look at you! You’ve taken your first steps with Polkadot and are now able to understand why it’s used, who uses it, and how to use it. It’s really much simpler than you think! We’ve established that Polkadot is super versatile, and so are its tools! Let’s now have a look at how to work with Polkadot!"
-      },
-      {
-        "id": 17,
-        "tweetReason": "Share the love on Twitter - we'll be rewarding the best ones with swag and prizes! ❤️",
-        "tweetContent": "I'm building on @Polkadot with @easya_app on my #360DaysOfPolkadot!\n\nCurrently learning about... \n\n🧑‍💻 How parachains work!\n⛓ How to build blockchains with @Polkadot \n🖼 How to speed up development 10x",
-        "tweetContentUrl": ""
+        "tweetReason": "Post on X that you're building on Polkadot! (and get extra XP!)",
+        "tweetContent": "I%E2%80%99m%20learning%20about%20@Polkadot%202.0%20with%20@EasyA_App!%0ADid%20you%20know%20we%20can%20finally%20deploy%20smart%20contracts%20on%20Polkadot?%20%E2%9A%99%EF%B8%8F%0AYep.%20And%20we%20can%20do%20it%20all%20using%20Solidity%20%E2%9C%85%0APlus%20we%20can%20spin%20up%20our%20own%20layer%201%20blockchain%20super%20fast%20%F0%9F%94%A5%0A#360DaysOfPolkadot%0A",
+        "tweetContentUrl": "",
+        "tweetSearchQuery": "-is:retweet @easya_app",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Far%201.png?alt=media&token=a584e92d-d6cd-4010-a422-ecd96c1bc853"
       }
     ]
   },
   {
-    "title": "How to work with Polkadot",
+    "title": "Why Polkadot",
     "index": 2,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/Ys0BGmG.jpg",
-        "title": "Gear up with Polkadot",
-        "details": "To start building your own parachain on the Polkadot network, you need a Polkadot account. This account lets you manage your DOT tokens, participate in staking and governance, and access the tools you need to build your parachain."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-01.png?alt=media&token=575f34b0-44be-4b00-b1c4-15081def29e4",
+        "title": "What next",
+        "detailsMarkdown": "So Gav helped create Ethereum. But he soon realised there were problems with his creation. We still see many of these issues in Ethereum today. The lack of scalability, the high fees, the congestion, the smart contract hacks from Solidity bugs, the list goes on…\n\nIn this challenge, we're going to continue the story. We're going to pick up where we left off, and see what Gav did next."
       },
       {
         "id": 2,
-        "imageUrl": "https://i.imgur.com/zzQnxmD.png",
-        "title": "Safeguard your assets",
-        "details": "As you gather resources on the island, wallets become essential tools for managing and protecting your DOT tokens and other assets within the Polkadot ecosystem. Choose from various types of wallets, such as hardware, software and browser-based wallets, each with its own benefits and security features. Safeguard your digital treasures in popular wallets like Enkrypt, PolkaGate, SubWallet and Talisman."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-2-step-02.png?alt=media&token=95074cbe-6abd-4f8b-b0f5-c7c76866fd2f",
+        "title": "Enter Polkadot",
+        "detailsMarkdown": "Ethereum was cool. It did many things very well, and its rapid adoption showed that. But like any honest academic, Gav understood the flaws in his creation. So in 2017, Gav created Polkadot to solve them and build the true world computer he'd always envisioned. Only this time, he'd build it better...",
+        "resources": [
+          {
+            "label": "Polkadot Pink Whitepaper",
+            "url": "https://polkadot.com/papers/Polkadot-whitepaper.pdf?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 3,
-        "imageUrl": "https://i.imgur.com/LTd50aN.png",
-        "title": "Not forgetting about mobile",
-        "details": "When you’re developing for the mainstream, it's important to make sure your program can work with popular mobile wallets. That means integrating a wallet SDK or API so users can easily connect and interact with their Polkadot accounts. Good news: wallets like Polkawallet and Fearless Wallet have resources to help you do just that!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-2-step-03.png?alt=media&token=e21d3b83-bbd9-4a64-ba43-4ad4f3b2024e",
+        "title": "Not his first time",
+        "detailsMarkdown": "This time, it wasn't Gav's first rodeo. He saw the problems with Ethereum, and he set out the solution in the Polkadot whitepaper (or rather, the 'pink paper'). Polkadot would bring together different blockchain architectures and make them compatible, all sharing the same high level of security so that hundreds of blockchains could be secured for the same price as just one. For the Web3 developers among us, this meant a native rollup host chain."
       },
       {
         "id": 4,
-        "imageUrl": "https://avatars.githubusercontent.com/u/33775474?s=280&v=4",
-        "title": "Polkadot.js: your navigator",
-        "details": "Polkadot.js is the trusty compass that guides you through the Polkadot network. It serves as a bridge between you and the various features of Polkadot, making it a super useful tool for building your own parachain and connecting the different blockchain islands!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-04.png?alt=media&token=0b1b7694-ad74-4d19-b89a-170776653257",
+        "title": "Eureka",
+        "detailsMarkdown": "And Gav succeeded. Polkadot was implemented, and it was a sharded system that scaled enormously. Lots of new blockchains launched on it, often with totally different architectures from one another. And they worked. The system worked. It all still works."
       },
       {
         "id": 5,
-        "title": "First steps",
-        "details": "As we work towards building our parachain in the hope of connecting the different blockchain islands, let's check our current balance using the code below:",
-        "language": "javascript",
-        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\nconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\nconst api = await ApiPromise.create({ provider: wsProvider });\nconst address = 'FAKEADDRESS';\nconst balance = await api.query.system.account(address);\nconsole.log(`Balance of ${address}: ${balance}`);\n}"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-2-step-05.png?alt=media&token=f77dbeb8-eb68-4398-98ad-12414552b10f",
+        "title": "The problem",
+        "detailsMarkdown": "There was just one issue. Polkadot as it was originally designed ended up creating lots of different blockchains which were still expensive to set up, still felt isolated, and overall felt more like bridged blockchains. \n\nAs Gav noted, it turned out that Polkadot's biggest strength was also its biggest weakness: it was sharded.",
+        "resources": [
+          {
+            "label": "JAM Graypaper",
+            "url": "https://docs.google.com/gview?url=https://graypaper.com/graypaper.pdf&embedded=true?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 6,
-        "imageUrl": "https://polkadot.network/meta/og-image-staking.png",
-        "title": "The art of staking",
-        "details": "Staking involves locking up your DOT tokens to help secure the network and earn rewards. Validators and nominators contribute to the stability of the ecosystem by staking DOT and supporting validator candidates. Nominators earn rewards proportional to their staked amounts while backing validators."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-06.png?alt=media&token=f42bab83-45a7-4676-83ea-2c9ec0db98f2",
+        "title": "The end game",
+        "detailsMarkdown": "So Gav embarked on his next mission. He realised that the power in what he'd built with Ethereum was in having a single, shared computer (not loads of different ones). So what was the solution?"
       },
       {
         "id": 7,
-        "choices": [
-          "Storing and managing your DOT tokens",
-          "Participating in staking and nominating",
-          "Finding yield farming strategies"
-        ],
-        "correctChoice": "Finding yield farming strategies",
-        "title": "Which of these is NOT a function of Polkadot.js?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-07.png?alt=media&token=bfdd5417-82a6-47f8-9590-a3a9cbdf8073",
+        "title": "JAM",
+        "detailsMarkdown": "The answer is JAM: the Join-Accumulate Machine. This is the next evolution of Polkadot. Finally, a big shared computer that can run anything and any services - even a game - and communicate with each other.\n\nIn other words, JAM brings together the best of Gav's two biggest achievements:\n\n1. Ethereum's general computational resources; and\n2. Polkadot's scalability\n\nThis is what JAM means, and this is what Gav's all-in on now."
       },
       {
         "id": 8,
-        "choices": [
-          "The users of Polkadot",
-          "The validators",
-          "The engineers building new parachains",
-          "All the above"
-        ],
-        "correctChoice": "All the above",
-        "title": "Who contributes to the stability of the ecosystem?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-08.png?alt=media&token=cbd237b0-f5e1-4e09-bbae-713aa66e8086",
+        "title": "What is Polkadot now?",
+        "detailsMarkdown": "But hang on a sec. Where does that leave us? First of all, we need to finish the story of Gav. And secondly, where does that leave Polkadot in its current state? After all, if Gav's all-in on JAM but it hasn't arrived yet, what do we do on Polkadot? Doesn't it kinda feel like we're in a limbo between two states right now, with the original version of Polkadot on one side, and the new JAM version on the other?"
       },
       {
         "id": 9,
-        "imageUrl": "https://i.imgur.com/YA3ysPy.png",
-        "title": "Power to the people",
-        "details": "Polkadot has a unique governance system that empowers its community to participate in decision-making. By holding DOT tokens, you too can vote on proposals and help shape the future of the Polkadot network. This is a super cool way of getting everybody involved!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-09.png?alt=media&token=913ff54f-aa20-48d7-af87-fa7d269647cd",
+        "title": "Polkadot today",
+        "detailsMarkdown": "The answer is that Polkadot as it stands is still very much open for business, and it's developing fast. The core tech will continue even when JAM arrives, and there's never been a better time to build on Polkadot. In fact, Polkadot is already close to solving one of the key issues which Gav recognised with his original design: not having a "single and universal object environment" - in other words, a single ecosystem for building. Polkadot is getting smart contracts natively for the first time, and developers will be able to build using just that - not worrying about building their own blockchain from scratch."
       },
       {
         "id": 10,
-        "imageUrl": "https://i.imgur.com/GT9uGcw.png",
-        "title": "Democracy in action",
-        "details": "Polkadot's referendum system lets DOT holders have a say in important network changes. You can participate in referenda to influence updates and modifications to the ecosystem, including the staking process. It's decentralized decision-making at its best!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-09.png?alt=media&token=913ff54f-aa20-48d7-af87-fa7d269647cd",
+        "title": "The story today",
+        "detailsMarkdown": "We'll come onto the technicalities of Polkadot next. But for now, where does that leave us in the story of Gav? After all, we set out originally to understand the man behind the technology. 10 years after the Ethereum yellow paper, and now Polkadot, why is Gav working so hard on JAM?"
       },
       {
         "id": 11,
-        "title": "Finally... getting started with Polkadot.js. Take a look at the code below to see if you can figure out how it works!",
-        "language": "javascript",
-        "code": "const { ApiPromise, WsProvider } = require('@polkadot/api');\n\nasync function main() {\n// Connect to a local Polkadot node\nconst wsProvider = new WsProvider('wss://rpc.polkadot.io');\nconst api = await ApiPromise.create({ provider: wsProvider });\n\n// Retrieve the latest block number\nconst blockNumber = await api.rpc.chain.getHeader();\nconsole.log(`Latest block number: ${blockNumber.number}`);\n}"
-      },
-      {
-        "id": 12,
-        "choices": [
-          "To secure the network and earn rewards",
-          "To mine new DOT tokens",
-          "To create new parachains"
-        ],
-        "correctChoice": "To secure the network and earn rewards",
-        "title": "To recap, what is the primary purpose of staking in Polkadot?"
-      },
-      {
-        "id": 13,
-        "imageUrl": "https://i.imgur.com/fQeoF5V.png",
-        "title": "Expanding horizons",
-        "details": "As you delve deeper into the Polkadot ecosystem, you'll encounter parachains and parathreads. These are two types of customizable blockchains that interconnect within the network, differing mainly in the way they connect to Polkadot - parachains secure their connection by leasing a slot via auction, while parathreads use a pay-as-you-go model. Both bring their own unique capabilities, adding some amazing features to our blockchain islands. For example, some parachains focus on adapting Ethereum, and others on helping creators make dynamic NFTs!"
-      },
-      {
-        "id": 14,
-        "imageUrl": "https://i.imgur.com/dyCgbew.png",
-        "title": "Funding the future",
-        "details": "Crowdloans are a unique way for the community to support the launch of new parachains. By contributing DOT tokens to a crowdloan, you can help fund a project's development and potentially earn rewards in the form of the project's native tokens. Just like a Gofundme!"
-      },
-      {
-        "id": 15,
-        "choices": [
-          "True",
-          "False"
-        ],
-        "correctChoice": "True",
-        "title": "Polkadot helps different blockchains communicate with each other."
-      },
-      {
-        "id": 16,
-        "choices": [
-          "True",
-          "False"
-        ],
-        "correctChoice": "False",
-        "title": "Polkadot always needs hard forks to make updates to its network."
-      },
-      {
-        "id": 17,
-        "imageUrl": "https://i.imgur.com/xZy1RBY.png",
-        "title": "Onwards and upwards!",
-        "details": "Keep exploring the exciting world of Polkadot! You're doing great already! Keep the momentum going and you'll be a Polkadot hero in no time at all!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-2-step-10.png?alt=media&token=047f4bb4-eaea-449f-9d67-e502b92683e6",
+        "title": "For money?",
+        "detailsMarkdown": "It's not about the money. Gav has always chosen freedom and curiosity over money, and that has made all the difference. After all, if Gav had chosen money, or if he'd taken that job at a bank, or if he'd prioritised short-term wealth over intellectual pursuits, we might never have had Web3 at all."
       }
     ]
   },
   {
-    "title": "How to build a Parachain",
+    "title": "Polkadot 2.0",
     "index": 3,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/lXWnGI1.png",
-        "title": "Embarking on the parachain journey",
-        "details": "Building a parachain is your key to connecting the diverse blockchain islands. A parachain allows you to create a unique, customizable blockchain that connects seamlessly to the network. Let’s have a look at the parachain architecture, the development toolbox and pallets (what on earth are those?)!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-01.png?alt=media&token=5ba9bd22-359a-4a55-a3e9-2fa9a62afdee",
+        "title": "Where we're going",
+        "detailsMarkdown": "As we've seen from the founding story, Polkadot was originally built to enable blockchains to communicate with each other. These blockchains are called parachains, and they were built using Polkadot. \n\nIn the upcoming challenges, we'll look at how Polkadot is evolving from catering purely to projects building their own layer 1 blockchains, to supporting lots of different types of developers in Web3 (even those who simply want to write and run their own smart contracts). We'll start by learning what's currently going on with Polkadot at a high level, and then move onto building our first frontend dApp using Polkadot's API. We'll then build our very own smart contracts and dip our toes into creating an actual blockchain!"
       },
       {
         "id": 2,
-        "imageUrl": "https://i.imgur.com/qBrWoH9.png",
-        "title": "Parachain architecture",
-        "details": "Parachain hosts, collators, and parachain runtime are the three key components of a parachain. They’re super crucial for your chain, so let’s take a deep dive into how they all work together!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-02.png?alt=media&token=2eb1fdb8-380d-4bdf-a130-c701d9d09fcf",
+        "title": "Polkadot 2.0: 3 big pieces",
+        "detailsMarkdown": "If Polkadot 1.0 was focused on communication between blockchains, what is Polkadot 2.0? Polkadot 2.0 introduced three key technical advancements: **Asynchronous Backing, Agile Coretime, and Elastic Scaling**. These upgrades were designed to lower the barrier to entry  for projects and builders. \n\nLet's unpack what that means in a little more detail now!",
+        "resources": [
+          {
+            "label": "The Journey To Polkadot 2.0",
+            "url": "https://polkadot.com/blog/rebirth-of-a-network?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 3,
-        "imageUrl": "https://i.imgur.com/JHCEIjk.png",
-        "title": "Collators: a parachain's backbone",
-        "details": "Collators are essential in maintaining your parachain as they gather transactions and help generate blocks. They’re putting in the hard work to make sure everything works the way it’s supposed to, contributing to your parachain's overall stability and performance."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-03.png?alt=media&token=8e850464-27f5-445b-9d15-aceca886763a",
+        "title": "Parachain block pipelines",
+        "detailsMarkdown": "[Asynchronous Backing](https://polkadot.com/newsroom/press-releases/asynchronous-backing-launched) enables parachains (layer 1 blockchains built on Polkadot) to propose blocks independently of relay chain blocks, enabling pipelines of pending blocks. This increases execution time from **500ms** to **2s**, doubles blockspace, and reduces parachain block times from **12s** to **6s**. This means Polkadot parachains can process more transactions, up to 10x faster."
       },
       {
         "id": 4,
-        "choices": [
-          "To secure the network and earn money",
-          "To collect transactions and produce blocks",
-          "To create new pallets"
-        ],
-        "correctChoice": "To collect transactions and produce blocks",
-        "title": "What is the primary role of collators in a parachain?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-04.png?alt=media&token=2d4313c9-b209-4491-80a5-6d447b99ff3e",
+        "title": "What this means",
+        "detailsMarkdown": "Why is this a good thing? Before Asynchronous Backing, parachains were tightly coupled to the relay chain's production schedule, creating bottlenecks. With this upgrade, parachains can be way more efficient because of:\n\n1. **Increased parallelism:** Parachains can prepare multiple blocks ahead of time instead of waiting for relay chain confirmation.\n2. **Better resource utilization:** The longer execution time (500ms to 2s) allows validators to process more complex transactions without timeouts.\n3. **Enhanced user experience:** Faster block times (12s to 6s) mean users get transaction confirmations twice as quickly.\n4. **Higher throughput:** The combination of doubled blockspace and faster blocks creates a multiplicative effect, allowing up to 10x more transactions to be processed in the same timeframe.\n5. **Reduced congestion:** More capacity means less competition for block space, allowing for lower transaction fees during peak usage.\n\nThese improvements directly translate to better scalability for dApps built on Polkadot parachains, allowing them to support more users and complex applications.",
+        "resources": [
+          {
+            "label": "The Spammening",
+            "url": "https://x.com/Polkadot/status/1870200150972420527?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "The Way To 10x Throughput On Parachains",
+            "url": "https://polkadot.com/blog/the-way-to-a-10x-throughput-lift-on-parachains?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 5,
-        "imageUrl": "https://i.imgur.com/SnNQj4x.png",
-        "title": "Preparing for a parachain auction",
-        "details": "Parachain auctions on Polkadot involve a bidding process where projects compete by locking DOT tokens for a specified time period. The highest bidder wins the slot and gains the right to launch their parachain. We’ll have a look at what it takes to win a bid!"
+        "title": "How long are parachain block times with async backing?",
+        "choices": [
+          "12 seconds",
+          "8 seconds",
+          "6 seconds",
+          "10 seconds"
+        ],
+        "correctChoice": "6 seconds"
       },
       {
         "id": 6,
-        "imageUrl": "https://i.imgur.com/5ee3A04.png",
-        "title": "Crowdfunding your parachain",
-        "details": "Crowdloans are a nifty financing method for your parachain project. By pooling DOT tokens from supporters, you can bid in parachain auctions, launching your project while rewarding your backers."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-05.png?alt=media&token=ba47dc25-1f81-44e7-939d-9612494812d9",
+        "title": "Agile Coretime",
+        "detailsMarkdown": "Now that we understand how Asynchronous Backing improves transaction processing, let's see the second major innovation of Polkadot 2.0: Agile Coretime.\n\nAgile Coretime offers flexible access to Polkadot cores without slot auctions. Previously leased for 2 years via auctions, cores can now be purchased directly or through secondary marketplaces. This allows projects to scale efficiently with the right amount of blockspace at each stage of their development, reducing both cost and commitment barriers for new projects.\n\nTo fully appreciate this advancement, let's first understand what \"cores\" actually are in the Polkadot ecosystem.",
+        "resources": [
+          {
+            "label": "Lastic Coretime Marketplace",
+            "url": "https://www.lastic.xyz/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "RegionX",
+            "url": "https://www.regionx.tech/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 7,
-        "imageUrl": "https://i.imgur.com/mZJuRRy.png",
-        "title": "Bringing your parachain to life",
-        "details": "Securing a parachain slot initiates the deployment process, which establishes the vital bridge connecting the different blockchain islands. Key steps involve registering the parachain, setting up the initial collator set, and fine-tuning the chain configuration to ensure a sturdy and efficient connection between the blockchain islands in the Polkadot ecosystem."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-06.png?alt=media&token=0be83662-f10e-480b-8ef1-c194fa441d77",
+        "title": "What's a core?",
+        "detailsMarkdown": "Now that we've introduced Agile Coretime, let's take a step back and understand what we mean by \"cores\" in this context.\n\nTypically, a core refers to a processing unit within a central processing unit (CPU). Modern CPUs often have multiple cores, each capable of executing instructions independently and in parallel. Multiple cores allow for increased performance and the ability to perform multiple tasks simultaneously."
       },
       {
         "id": 8,
-        "choices": [
-          "Parachain runtime",
-          "Parachain hosts",
-          "Collators",
-          "Crowdloans"
-        ],
-        "correctChoice": "Collators",
-        "title": "Which component of a parachain is responsible for gathering transactions and helping generate blocks?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-07.png?alt=media&token=e92d9858-961f-4819-89c5-ab89e7948a4f",
+        "title": "Applying it to Polkadot",
+        "detailsMarkdown": "But how does this concept apply to Polkadot's architecture? In Polkadot, cores serve a similar purpose but operate at the blockchain level, providing computational resources for parachains. Understanding this concept is essential before we explore how Polkadot uses cores to enable its scalable blockchain infrastructure.",
+        "resources": [
+          {
+            "label": "Polkadot Cores",
+            "url": "https://forum.polkadot.network/t/what-exactly-is-a-core-so-how-many-cores-you-got/5842?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 9,
-        "title": "Pallets in action!",
-        "details": "This is a pallet dependency description - it's used to make the pallet available to the node runtime. The Nicks pallet allows blockchain users to pay a deposit to reserve a nickname for an account they control.",
-        "language": "yaml",
-        "code": "[dependencies]\npallet-nicks = { \nversion = \"4.0.0-dev\", \ndefault-features = false, \ngit = \"https://github.com/paritytech/substrate.git\", \nbranch = \"polkadot-v0.9.37\" \n}"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-08.png?alt=media&token=3fd7e665-57cf-42d9-84e0-5b87b1d21dc4",
+        "title": "Cores in Polkadot",
+        "detailsMarkdown": "Previously in Polkadot, accessing cores required slot auctions, a time-consuming process with bidding risks and which required huge resources. Now, [cores can be purchased directly](https://docs.polkadot.com/develop/parachains/deployment/obtain-coretime/), either in bulk for a full month, or on-demand as and when needed! We call this purchasing 'coretime'."
       },
       {
         "id": 10,
-        "title": "Add the Nicks pallet to the features list before compiling the runtime to enable it to be used!\n\nLook at the format of the other pallets already in the features list and add the Nicks pallet above to the list so the runtime can compile!",
-        "code": "[features]\ndefault = [\"std\"]\nstd = [\n\"pallet-aura/std\",\n\"pallet-balances/std\",\n\"pallet-nicks\"\n]\n",
-        "orderedAnswer": [
-          "\"",
-          "pallet-nicks",
-          "\"",
-          "]"
+        "title": "Agile Coretime offers access to Polkadot cores...",
+        "choices": [
+          "Continuously",
+          "On-demand",
+          "Periodically",
+          "All of the above"
         ],
-        "startingCode": "[features]\ndefault = [\"std\"]\nstd = [\n\"pallet-aura/std\",\n\"pallet-balances/std\",\n",
-        "language": "yaml"
+        "correctChoice": "All of the above"
       },
       {
         "id": 11,
-        "imageUrl": "https://i.imgur.com/R7I22oU.png",
-        "title": "On-chain governance",
-        "details": "You can think of on-chain governance sort of like the island council (to continue our analogy). It's essential for sustaining a parachain and maintaining harmony across our island network. Transparent, community-driven governance structures empower users to influence the future of the parachain and the connections between blockchain islands, fostering accountability and consensus-driven decision-making."
-      },
-      {
-        "id": 12,
-        "imageUrl": "https://i.imgur.com/3NnqnV3.png",
-        "title": "Embracing upgrades",
-        "details": "To keep a parachain on the cutting edge, it's vital to adapt to the ever-changing trends of blockchain innovation. By planning, proposing, and executing on-chain upgrades our parachain can continue to be a robust and reliable connection to other islands, fostering a connected ecosystem."
-      },
-      {
-        "id": 13,
-        "choices": [
-          "True",
-          "False"
-        ],
-        "correctChoice": "True",
-        "title": "True or False: To launch a parachain, you can either choose the on-demand model (parathreads), or auction model where you get a reserved parachain slot (parachain)"
-      },
-      {
-        "id": 14,
-        "imageUrl": "https://i.imgur.com/glMLxrT.png",
-        "title": "Look at you, Parachain legend!",
-        "details": "You've nailed parachain building and connected the blockchain islands with a super cool parachain! Put your newfound know-how to use and explore some of Polkadot's awesome tooling next!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-3-step-09.png?alt=media&token=3fb83275-fad5-42c7-a4c3-2b8b607c1ae1",
+        "title": "Elastic scaling",
+        "detailsMarkdown": "Parachains were meant to operate on a single core. But imagine if parachains could grow bigger and could use more cores and do even more computation. Many blockchains fail or stop producing blocks when they need to scale to finalise transactions.\n\nHowever, with elastic scaling, projects on Polkadot can lease additional cores as needed and can efficiently manage computing needs as they grow. \n\nThese three upgrades together - faster transaction processing, flexible resource acquisition, and programmatic scaling - form the foundation of Polkadot 2.0's approach to solving blockchain's trilemma of security, decentralization, and scalability."
       }
     ]
   },
   {
-    "title": "Best frameworks for Polkadot Development",
+    "title": "Building on Polkadot",
     "index": 4,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/IpiJHvv.png",
-        "title": "Deeper dive",
-        "details": "Now you know how to make your first parachain, we can dive deeper into the frameworks used to customize and specialize your parachain!"
-      },
-      {
-        "id": 2,
-        "imageUrl": "https://i.imgur.com/xba5CEh.png",
-        "title": "Substrate",
-        "details": "A face you’ll see often throughout your Polkadot journey is Substrate, a powerful Rust-based framework that lets you cherry-pick characteristics for your parachain, so you can easily upgrade and evolve your blockchain over time. \n\nBest of all, Substrate comes with loads of built-in features to take care of the protocol-level tasks, so you can focus on what really matters - programming your groundbreaking new features!\n"
-      },
-      {
-        "id": 3,
-        "imageUrl": "https://i.imgur.com/yXnAjjB.png",
-        "title": "Pallets",
-        "details": "Pallets in Substrate are like Legos, they’re designed for specific uses, but when put together they combine their characteristics.\n\nAs building blocks for our blockchain bridges, they are designed to work together smoothly, with each pallet providing a specific function or feature that can be merged into the bigger project. You can save time and effort while keeping compatibility and stability in your parachain by using the pre-built functionality of pallets."
-      },
-      {
-        "id": 4,
-        "imageUrl": "https://i.imgur.com/VPSQMIr.png",
-        "title": "Compiling a substrate node",
-        "details": "Compiling your Substrate node is the first step to building your local blockchain and simulating a network. Luckily, the clever folks behind Substrate have made a super straightforward tutorial. If you have time, take a deeper dive by checking out the tutorials linked below. Otherwise, stick with us and let's continue exploring!",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-01.png?alt=media&token=3104d6ad-1b75-4560-8145-66868a06de87",
+        "title": "What does it mean to build?",
+        "detailsMarkdown": "Now we've seen why we should be excited about building on Polkadot, and what's coming. So let's see it in action! We can build on Polkadot in a couple of ways:\n\n- **Frontend development:** Create UIs using the Relay Chain and parachain APIs, sending requests via RPCs with **Subxt** or **PAPI**.\n- **Smart contract development**: Deploy Ink! contracts or Solidity contracts on Asset Hub.\n- **Blockchain development:** Deploy a blockchain on Polkadot by building with the Polkadot SDK, Substrate and the toolkit\n\nLet's start with the first way to develop on Polkadot!",
         "resources": [
           {
-            "label": "docs.substrate.io/tutorials",
-            "url": "https://docs.substrate.io/tutorials"
+            "label": "Subxt",
+            "url": "https://github.com/paritytech/subxt?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Subxt Explorer",
+            "url": "https://paritytech.github.io/subxt-explorer?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "PAPI",
+            "url": "https://papi.how/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Rust Smart Contracts",
+            "url": "https://docs.polkadot.com/develop/smart-contracts/wasm-ink/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Solidity Smart Contracts",
+            "url": "https://medium.com/@brunopgalvao/deploying-your-first-contract-to-polkadot-in-5minutes-5cf190601b99/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Asset Hub Parachain",
+            "url": "https://wiki.polkadot.network/docs/learn-assets/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Substrate API Sidecar",
+            "url": "https://github.com/paritytech/substrate-api-sidecar/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
           }
         ]
       },
       {
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-02.png?alt=media&token=8ee4a5f7-00fb-455c-89fd-9a0f7e765fe4",
+        "title": "Understanding Subxt",
+        "detailsMarkdown": "Before we go onto frontend development on Polkadot with PAPI, let's understand one of the key tools we just mentioned: Subxt.\n\n**Subxt** (Substrate eXtrinsic Transactions) is a Rust library that allows developers to submit extrinsics (transactions) to a Substrate-based chain. What makes Subxt particularly useful is its explorer component.\n\n**The Subxt Explorer** is a tool that automatically generates API documentation from a Polkadot SDK chain's metadata. This allows developers to easily discover and understand the available RPCs, storage items, and callable functions without having to manually inspect the chain's code. It essentially maps out the entire API surface of a parachain, making development significantly more efficient."
+      },
+      {
+        "id": 3,
+        "title": "What does the Subxt explorer do?",
+        "choices": [
+          "It's a blockchain explorer",
+          "It generates the API docs for Polkadot SDK chains",
+          "It's a blockchain indexer",
+          "All of the above"
+        ],
+        "correctChoice": "It generates the API docs for Polkadot SDK chains"
+      },
+      {
+        "id": 4,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-03.png?alt=media&token=26ddbe78-064c-47ce-8249-e5bb66051985",
+        "title": "Frontend: using PAPI",
+        "detailsMarkdown": "Now that we've checked out what Subxt can do for parachain APIs, we're now ready to build some actual applications that actually interact with these blockchains!\n\nPolkadot is home to some of the most sophisticated blockchains (known as parachains on Polkadot, and also as rollups elsewhere in Web3). With all these chains on Polkadot, a big focus is naturally on building great user experiences.\n\nThis is where **PAPI (Polkadot API)** comes in. Let's use it to build a frontend dApp that displays Polkadot's staking information, demonstrating how easily we can create interactive applications on the Polkadot ecosystem."
+      },
+      {
         "id": 5,
-        "title": "Three core technologies",
-        "imageUrl": "https://i.imgur.com/ttAIdaq.png",
-        "details": "Substrate's three core technologies are libp2p, Wasm and GRANDPA. Libp2p is a peer-to-peer networking protocol that allows nodes in a Substrate network to communicate."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-04.png?alt=media&token=3f4b2f5c-a786-4880-898e-5c1fa7293f8c",
+        "title": "Why PAPI?",
+        "detailsMarkdown": "[PAPI](https://papi.how/) is a lightweight library that can create multiple connections to different Polkadot parachains simultaneously. It has first-class support for storage reads, constants, transactions, events and runtime updates.",
+        "resources": [
+          {
+            "label": "Bun.sh",
+            "url": "https://bun.sh/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Vite",
+            "url": "https://vite.dev/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "PAPI",
+            "url": "https://papi.how/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          },
+          {
+            "label": "Create-Polkadot-Dapp",
+            "url": "https://github.com/paritytech/create-polkadot-dapp?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
       },
       {
         "id": 6,
-        "title": "What's Wasm?",
-        "imageUrl": "https://i.imgur.com/ttAIdaq.png",
-        "details": "Wasm empowers you to write blockchain logic in multiple languages, delivering true flexibility. The beauty of Substrate is it enables forkless upgrades, and coupled with Substrate this means you can write runtimes in any language (so long as it compiles to wasm)!",
-        "language": "javascript",
-        "code": "const Libp2p = require('libp2p');\nconst TCP = require('libp2p-tcp');\nconst { NOISE } = require('libp2p-noise');\n(async () => {\nconst libp2p = await Libp2p.create({ modules: { transport: [TCP], connEncryption: [NOISE] }, });\nawait libp2p.start();\n})();"
+        "title": "What is PAPI used for?",
+        "choices": [
+          "Building Substrate chains",
+          "Interacting with Polkadot SDK-based chains",
+          "Creating RPC providers",
+          "Connecting with multiple smart contracts"
+        ],
+        "correctChoice": "Interacting with Polkadot SDK-based chains"
       },
       {
         "id": 7,
-        "imageUrl": "https://i.imgur.com/7xhmIHY.png",
-        "title": "Immutable finality",
-        "details": "GRANDPA is a finality gadget that guarantees that once a block is added to the chain, it cannot be reversed or altered. It ensures that finality is reached easily and quickly, even when the blockchain is forked and restructured."
+        "title": "Imports and uses",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-05.png?alt=media&token=c96baf32-5aea-4e8b-a8b0-8c47b99428b5",
+        "detailsMarkdown": "Let's take a look at some methods exported from PAPI's library.\n\nAfter all, we can't build the dApp without importing the methods that PAPI provides!\n\nFirst, we use the 'createClient' method to connect to PAPI via a web socket connection.\n\nWe import 'withPolkadotSdkCompat' which is an enhancer for making calls to an RPC provider using the 'getWsProvider' method to make RPC calls.",
+        "code": "import { createClient } from \"polkadot-api\";\nimport { getWsProvider } from \"polkadot-api/ws-provider/web\";\nimport { withPolkadotSdkCompat } from \"polkadot-api/polkadot-sdk-compat\";",
+        "language": "typescript"
       },
       {
         "id": 8,
-        "choices": [
-          "Quick and efficient code execution",
-          "Peer-to-peer networking between nodes",
-          "Modular networking stack with a variety of communication protocols and transports"
-        ],
-        "correctChoice": "Quick and efficient code execution",
-        "title": "What does Wasm enable in Substrate?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-06.png?alt=media&token=64bfef74-a7ab-4df7-bccd-20ebf96dfb65",
+        "title": "What's an enhancer?",
+        "detailsMarkdown": "An enhancer in PAPI is a function that adds additional capabilities to the client. The 'withPolkadotSdkCompat' enhancer specifically adds compatibility with older Polkadot SDK interfaces, making it easier to transition existing code or integrate with libraries that expect the traditional Polkadot.js API format.",
+        "code": "import { createClient } from \"polkadot-api\";\nimport { getWsProvider } from \"polkadot-api/ws-provider/web\";\nimport { withPolkadotSdkCompat } from \"polkadot-api/polkadot-sdk-compat\";",
+        "language": "typescript"
       },
       {
         "id": 9,
-        "choices": [
-          "To allow developers to focus on more important things than protocol level stuff",
-          "To provide sandboxed code execution for increased security",
-          "To enable quick and efficient code execution"
-        ],
-        "correctChoice": "To allow developers to focus on more important things than protocol level stuff",
-        "title": "What is the purpose of Substrate's built-in features?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-07.png?alt=media&token=229eece0-2439-42a5-90a3-2eb12e21d68b",
+        "title": "Connecting to the chain",
+        "detailsMarkdown": "After importing our methods, we can finally create the connection to the client! \n\nHere we're doing it via the **stakeworld** rpc.",
+        "code": "// create the client with a websocket connection\nconst client = createClient(\n  // we recommend adding this enhancer\n  withPolkadotSdkCompat(\n    getWsProvider(\"wss://dot-rpc.stakeworld.io\")\n  )\n);",
+        "language": "typescript"
       },
       {
         "id": 10,
-        "choices": [
-          "To provide sandboxed code execution for increased security",
-          "To ensure that once a block is added to the chain, it cannot be reversed or altered",
-          "To allow nodes in a Substrate network to communicate and offer a modular and adaptable networking stack",
-          "To implement a consensus mechanism"
-        ],
-        "correctChoice": "To allow nodes in a Substrate network to communicate and offer a modular and adaptable networking stack",
-        "title": "What is the purpose of Libp2p in Substrate?"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-08.png?alt=media&token=92a84098-e5d7-4b40-8481-b9491ed1cec9",
+        "title": "Info from chain",
+        "detailsMarkdown": "After connecting to the blockchain, we then need to extract the 'getTypedAPI'. We use it to extract the chain's metadata and query different properties from it.",
+        "code": "// get the safely typed API from the 'client'\n const api = client.getTypedApi(dot);",
+        "language": "typescript"
       },
       {
         "id": 11,
-        "imageUrl": "https://i.imgur.com/FPOWsH9.png",
-        "title": "Moving onto ink!",
-        "details": "A language you’ll often hear about during your Polkadot journey is ink!, a rust-based smart contracts language, designed to be used to write smart contracts."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-09.png?alt=media&token=192414ae-ed03-4cd2-bc17-c8b6b53df9d2",
+        "title": "TypedAPI",
+        "detailsMarkdown": "The 'getTypedAPI' method allows us to make storage calls, create transactions, and more. \n\nHere are some of the types available on TypedAPI.\n\nA property like 'query' is for reading from storage, while 'tx' is for creating transactions on PAPI.",
+        "code": "\n   type TypedApi = {\n     query: StorageApi,\n     tx: TxApi,\n     ...\n   };",
+        "language": "typescript"
       },
       {
         "id": 12,
-        "imageUrl": "https://i.imgur.com/WqdIGzs.png",
-        "title": "Why is ink! special?",
-        "details": "ink! is particularly loved for its safety, speed, and concurrency. This fits hand in hand with Substrate's core values, and will complement your runtime perfectly!"
+        "title": "What method is getTypedAPI used for?",
+        "choices": [
+          "To question the chain",
+          "To retrieve info from the blockchain",
+          "To build the frontend",
+          "To extract the chain's client"
+        ],
+        "correctChoice": "To retrieve info from the blockchain"
       },
       {
         "id": 13,
-        "imageUrl": "https://i.imgur.com/uR0q9rf.png",
-        "title": "Security",
-        "details": "Remember how we talked about Rust earlier? Because of Rust's focus on security, your smart contracts can be more resistant to errors, vulnerabilities, and hacks. This means that your contract and the overall network are kept super safe."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-10.png?alt=media&token=1cf71da5-09d4-4d70-abdd-9266d04398d7",
+        "title": "Read storage API",
+        "detailsMarkdown": "To read from storage on PAPI, we use the property 'query'. We can use it to get information like staking, account history, etc. \n\nLet's query the total staking era and nominators on Polkadot. \n\nFirst, we'll retrieve the total staking era. We can do this  by calling the getValue() method.",
+        "code": " // get staking info\n const staking = api.query.Staking.ActiveEra.getValue();",
+        "language": "typescript"
       },
       {
         "id": 14,
-        "choices": [
-          "Python",
-          "Rust",
-          "Java",
-          "JavaScript"
+        "title": "Complete the code to retrieve the value",
+        "hint": "To retrieve the value, add .getValue() to the end of the line.",
+        "enhancedHint": [
+          {
+            "type": "plainString",
+            "value": "To retrieve the value, add "
+          },
+          {
+            "type": "copyToClipboard",
+            "value": ".getValue();"
+          },
+          {
+            "type": "plainString",
+            "value": " to the end of the line."
+          }
         ],
-        "correctChoice": "Rust",
-        "title": "Which programming language is ink! built on top of?"
+        "language": "typescript",
+        "startingCode": "// Add the missing .getValue();\nconst nominatorsCount = api.query.Staking.CounterForNominators",
+        "correctCode": "// Add the missing .getValue();\nconst nominatorsCount = api.query.Staking.CounterForNominators.getValue();"
       },
       {
         "id": 15,
-        "choices": [
-          "It is a low-level language that provides full control over the blockchain",
-          "It's fast, secure and helps developers write smart contracts with fewer errors and vulnerabilities",
-          "It has a better binary than other smart contract languages",
-          "It provides a graphical user interface for easy development"
-        ],
-        "correctChoice": "It's fast, secure and helps developers write smart contracts with fewer errors and vulnerabilities",
-        "title": "What is one big advantage of using ink! for smart contract development?"
+        "title": "Reading from storage",
+        "detailsMarkdown": "Great work! Just remember that both the 'staking' and 'nominatorsCount' variables will contain Promises, not the actual values. This is because blockchain queries are asynchronous operations. We'll need to use 'await' or '.then()' to access the actual values when they resolve.",
+        "code": "// get nominators count\nconst nominatorsCount = api.query.Staking.CounterForNominators.getValue();",
+        "language": "typescript"
       },
       {
         "id": 16,
+        "title": "Which method do we use for querying storage?",
         "choices": [
-          "Interoperability with other smart contract languages and frameworks",
-          "Safety and security features",
-          "Built-in support for web development",
-          "Flexibility and customization"
+          "tx",
+          "apis",
+          "query",
+          "txFromCallData"
         ],
-        "correctChoice": "Built-in support for web development",
-        "title": "Which of the following is NOT a benefit of ink! for developers?"
+        "correctChoice": "query"
       },
       {
         "id": 17,
-        "imageUrl": "https://i.imgur.com/zI5GJss.png",
-        "title": "You've done it!",
-        "details": "You’re almost there! You’ve come super far and learnt so much! Now you know all about Substrate and why you’d want to start building smart contracts on ink!, you’re on the path to greatness and we can’t wait to see what you come up with!"
+        "title": "Local state management",
+        "detailsMarkdown": "Remember those variables we created earlier? We await and use the values to update the local state.\n\nThis is no different to normal front-end development. We simply update the state with the 'useEffect' hook. Here, we just retrieved the total number of days staking has been active on Polkadot and the total number of nominators on the network.",
+        "code": " useEffect(() => {\n   async function returnStakingInfo() {\n     const value = await staking;\n     const valueForNominators = await nominatorsCount;\n\n\n     const values: DotInfo = {\n       staking: value,\n       nominatorsCount: valueForNominators,\n     };\n     setDotInfo(values);\n   }\n   returnStakingInfo();\n }, [nominatorsCount, staking, visible]);",
+        "language": "typescript"
+      },
+      {
+        "id": 18,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-11.png?alt=media&token=51d585a5-6095-470c-852c-41b9d41b28d1",
+        "title": "Try it for real!",
+        "detailsMarkdown": "The best way to learn is by doing. And we've already started doing exactly that here! When we're building, the best place to get started is with a very nifty little template out there that puts everything together for us.\n\nIts name? Create-Polkadot-Dapp! Here's the [NPM package](https://www.npmjs.com/package/create-polkadot-dapp?utm_source=easya&utm_medium=easya&utm_campaign=challenges) we can use to get started in seconds."
+      },
+      {
+        "id": 19,
+        "title": "Now for real for real",
+        "detailsMarkdown": "Play around with PAPI live! You'll see your changes live in the browser preview!",
+        "initialCode": [
+          {
+            "language": "HTML",
+            "code": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n  <title>Play with PAPI</title>\n</head>\n\n<body>\n  <h1>Play with PAPI (<a href=\"https://github.com/polkadot-api/polkadot-api\">The Polkadot API</a>)</h1>\n  <pre id=\"chainInfo\">Loading...</pre>\n  <pre id=\"blockNumber\"></pre>\n  <pre id=\"freeBalance\"></pre>\n</body>\n\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/index.min.js\"></script>\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/ws-provider_web.min.js\"></script>\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/polkadot-sdk-compat.min.js\"></script>\n\n</html>"
+          },
+          {
+            "language": "JavaScript",
+            "code": "// Import PAPI. Learn more about PAPI here: https://papi.how/\nconst { createClient } = papi;\nconst { withPolkadotSdkCompat } = papiPolkadotSdkCompat;\nconst { getWsProvider } = papiWsProviderWeb;\n\n// TODO: Change which blockchain you connect to!\n// Try \"wss://kusama-rpc.polkadot.io\"\nconst ENDPOINT = \"wss://rpc.polkadot.io\";\n// All of our PAPI imports are used to create a client.\nconst client = createClient(withPolkadotSdkCompat(getWsProvider(ENDPOINT)));\n// And from our client, we can access the chain and APIs.\nconst api = client.getUnsafeApi();\n\ndocument.getElementById(\"chainInfo\").innerText =\n  \"Connecting to RPC endpoint...\";\n\n// This will tell us about the chain we are connected to!\nclient.getChainSpecData().then((chainSpec) => {\n  document.getElementById(\n    \"chainInfo\"\n  ).innerText = `Connected to:\\n\\n${JSON.stringify(chainSpec, 0, 2)}`;\n});\n\n// Thanks to our subscription, the block number automatically updates!\nclient.finalizedBlock$.subscribe((block) => {\n  document.getElementById(\n    \"blockNumber\"\n  ).innerText = `Latest finalized block:\\n\\n${JSON.stringify(block, 0, 2)}`;\n});\n\n// TODO: Feel free to change this account! Maybe try your own?\nconst ACCOUNT = \"5DksjtJER6oLDWkWKCWcL3f1swPWeNNFsS9zHxa2rPa7LsH9\";\n\n// TODO: Feel free to change this query!\n// We started with `api.query.System.Account`.\n// Try `api.query.Staking.Ledger`.\n// Try `api.query.Balances.Locks`.\n// Try `api.query.Vesting.Vesting`.\napi.query.System.Account.watchValue(ACCOUNT).subscribe((account) => {\n  document.getElementById(\n    \"freeBalance\"\n  ).innerText = `Data for ${ACCOUNT}:\\n\\n${JSON.stringify(account, 0, 2)}`;\n});\n\n// TODO: Congrats! You are now ready to try the \"Intro to PAPI\" tutorial:\n// https://dotcodeschool.com/courses/intro-to-papi\n\n// This handles printing large numbers on screen.\nBigInt.prototype.toJSON = function () {\n  return Number(this);\n};"
+          }
+        ],
+        "correctCode": [
+          {
+            "language": "html",
+            "code": "<!doctype html>\n<html lang=\"en\">\n\n<head>\n  <title>Play with PAPI</title>\n</head>\n\n<body>\n  <h1>Play with PAPI (<a href=\"https://github.com/polkadot-api/polkadot-api\">The Polkadot API</a>)</h1>\n  <pre id=\"chainInfo\">Loading...</pre>\n  <pre id=\"blockNumber\"></pre>\n  <pre id=\"freeBalance\"></pre>\n</body>\n\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/index.min.js\"></script>\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/ws-provider_web.min.js\"></script>\n<script src=\"https://unpkg.com/polkadot-api/dist/umd/polkadot-sdk-compat.min.js\"></script>\n\n</html>"
+          },
+          {
+            "language": "javascript",
+            "code": "// Import PAPI. Learn more about PAPI here: https://papi.how/\nconst { createClient } = papi;\nconst { withPolkadotSdkCompat } = papiPolkadotSdkCompat;\nconst { getWsProvider } = papiWsProviderWeb;\n\n// TODO: Change which blockchain you connect to!\n// Try \"wss://kusama-rpc.polkadot.io\"\nconst ENDPOINT = \"wss://rpc.polkadot.io\";\n// All of our PAPI imports are used to create a client.\nconst client = createClient(withPolkadotSdkCompat(getWsProvider(ENDPOINT)));\n// And from our client, we can access the chain and APIs.\nconst api = client.getUnsafeApi();\n\ndocument.getElementById(\"chainInfo\").innerText =\n  \"Connecting to RPC endpoint...\";\n\n// This will tell us about the chain we are connected to!\nclient.getChainSpecData().then((chainSpec) => {\n  document.getElementById(\n    \"chainInfo\"\n  ).innerText = `Connected to:\\n\\n${JSON.stringify(chainSpec, 0, 2)}`;\n});\n\n// Thanks to our subscription, the block number automatically updates!\nclient.finalizedBlock$.subscribe((block) => {\n  document.getElementById(\n    \"blockNumber\"\n  ).innerText = `Latest finalized block:\\n\\n${JSON.stringify(block, 0, 2)}`;\n});\n\n// TODO: Feel free to change this account! Maybe try your own?\nconst ACCOUNT = \"5DksjtJER6oLDWkWKCWcL3f1swPWeNNFsS9zHxa2rPa7LsH9\";\n\n// TODO: Feel free to change this query!\n// We started with `api.query.System.Account`.\n// Try `api.query.Staking.Ledger`.\n// Try `api.query.Balances.Locks`.\n// Try `api.query.Vesting.Vesting`.\napi.query.System.Account.watchValue(ACCOUNT).subscribe((account) => {\n  document.getElementById(\n    \"freeBalance\"\n  ).innerText = `Data for ${ACCOUNT}:\\n\\n${JSON.stringify(account, 0, 2)}`;\n});\n\n// TODO: Congrats! You are now ready to try the \"Intro to PAPI\" tutorial:\n// https://dotcodeschool.com/courses/intro-to-papi\n\n// This handles printing large numbers on screen.\nBigInt.prototype.toJSON = function () {\n  return Number(this);\n};"
+          }
+        ]
+      },
+      {
+        "id": 20,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-4-step-12.png?alt=media&token=3a011af8-f72e-42b5-a95b-36722ddaf6ad",
+        "title": "Epic stuff!",
+        "detailsMarkdown": "How cool is that? And how easy was it? Sometimes the code can look complicated, but when we take a step back and play with it live, it all makes sense. See how we could just change a few things with PAPI and see them reflected live? That's how fast PAPI makes development on Polkadot.\n\nWhile our frontend can now effectively interact with the blockchain, we haven't yet created any on-chain logic. For that, we need to write smart contracts, which brings us to our next exciting development opportunity on Polkadot.\n\nLet's see that in the next challenge!"
       }
     ]
   },
   {
-    "title": "The Future of Polkadot",
+    "title": "Smart contracts on Polkadot",
     "index": 5,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/dQnUqKa.png",
-        "title": "Exciting adventures await",
-        "details": "You've become quite the Polkadot whiz! Now it's time to put your knowledge into action by creating your own parachain. Let’s get our hands dirty while we guide you through building a functioning parachain step by step and explore Polkadot governance and exciting future developments."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-01.png?alt=media&token=a9413640-52ea-4094-b591-6252e4acdc41",
+        "title": "The new Polkadot",
+        "detailsMarkdown": "Now we've built a front-end using PAPI. But we didn't build anything on the blockchain itself. We just interacted with existing on-chain data. We didn't write any smart contracts, nor did we deploy them. \n\nIf you'd asked us before whether we could do that natively on Polkadot (without relying on the parachains), we'd have answered that it wasn't possible! \n\nThat's now changed."
       },
       {
         "id": 2,
-        "title": "We'll start by setting up the development environment and initializing your parachain project using Substrate and Rust. Here's a code snippet to get you started. Name your parachain: AlphaChain. Hint: you've got to do it in two places!",
-        "startingCode": "cargo install node-cli \ncargo new --bin my_parachain\ncd my_parachain",
-        "correctCode": "cargo install node-cli \ncargo new --bin AlphaChain\ncd AlphaChain",
-        "hint": "instead of 'my_parachain' change the text to 'AlphaChain'",
-        "enhancedHint": [
-          {
-            "type": "plainString",
-            "value": "instead of 'my_parachain' change the text to"
-          },
-          {
-            "type": "copyToClipboard",
-            "value": "AlphaChain"
-          }
-        ],
-        "language": "typescript",
-        "freeFormCodeValidationMethod": "trimAll"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-02.png?alt=media&token=577abc9f-3573-4b2e-806f-be03ec8e6501",
+        "title": "Smart contracts on Polkadot",
+        "detailsMarkdown": "For the first time, we can now deploy smart contracts on Polkadot! \n\nHow? Via Asset Hub."
       },
       {
         "id": 3,
-        "title": "Next, let's lay the foundations for our island bridge by creating the basic structure of our parachain, including the runtime configuration. Change our parachain spec_name to: AlphaChain",
-        "language": "typescript",
-        "freeFormCodeValidationMethod": "trimAll",
-        "startingCode": "pub const VERSION: RuntimeVersion = RuntimeVersion { \nspec_name: create_runtime_str!(\"my-parachain\"), impl_name: create_runtime_str!(\"my-parachain-node\"),\nauthoring_version: 1, \nspec_version: 1, \nimpl_version: 1, \napis: RUNTIME_API_VERSIONS,\ntransaction_version: 1, \n};\n",
-        "correctCode": "pub const VERSION: RuntimeVersion = RuntimeVersion { \nspec_name: create_runtime_str!(\"AlphaChain\"), impl_name: create_runtime_str!(\"my-parachain-node\"),\nauthoring_version: 1, \nspec_version: 1, \nimpl_version: 1, \napis: RUNTIME_API_VERSIONS,\ntransaction_version: 1, \n};\n",
-        "hint": "instead of 'my_parachain' change the text to 'AlphaChain'",
-        "enhancedHint": [
-          {
-            "type": "plainString",
-            "value": "instead of 'my_parachain' change the text to"
-          },
-          {
-            "type": "copyToClipboard",
-            "value": "AlphaChain"
-          }
-        ]
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-03.png?alt=media&token=10de8bbc-3e53-4929-8e41-310960a6f680",
+        "title": "What is Asset Hub?",
+        "detailsMarkdown": "Asset Hub is a specialized parachain on the Polkadot network that provides built-in functionality for tokens and digital assets. It serves as Polkadot's primary parachain for everything related to assets — from creating and managing fungible tokens to registering and transferring NFTs. Most importantly for developers, Asset Hub now supports smart contract deployment using both Solidity and WASM."
       },
       {
         "id": 4,
-        "imageUrl": "https://i.imgur.com/bi4P7tC.jpg",
-        "title": "Now, we'll add a crucial component to hold our island bridge together! How do we do that? By adding a simple pallet for handling balances in our parachain. Change the existential deposit count here to: 1000. Hint: it's on the second line!",
-        "language": "typescript",
-        "freeFormCodeValidationMethod": "trimAll",
-        "startingCode": "parameter_types! {\npub const ExistentialDeposit: u128 = 500;\n}\n\nimpl pallet_balances::Config for Runtime {\ntype MaxLocks = MaxLocks;\ntype Balance = u128;\ntype Event = Event;\ntype DustRemoval = ();\ntype ExistentialDeposit = ExistentialDeposit;\ntype AccountStore = System;\ntype WeightInfo = ();\n}\n",
-        "correctCode": "parameter_types! {\npub const ExistentialDeposit: u128 = 1000;\n}\n\nimpl pallet_balances::Config for Runtime {\ntype MaxLocks = MaxLocks;\ntype Balance = u128;\ntype Event = Event;\ntype DustRemoval = ();\ntype ExistentialDeposit = ExistentialDeposit;\ntype AccountStore = System;\ntype WeightInfo = ();\n}\n",
-        "hint": "change value of ExistentialDeposit from 500 to 1000",
-        "enhancedHint": [
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-04.png?alt=media&token=e62ab221-268d-4648-83bb-acd0ccc9cf4a",
+        "title": "Where is Asset Hub?",
+        "detailsMarkdown": "Asset Hub has a testnet on Westend. Once we've added the metamask extension to our browser, we can then add Westend to our list of networks.\n\nIn this challenge, we will build a burger shop smart contract. All on Polkadot!\n\nIn case we're interested, we can first see how Polkadot consumes Solidity and WASM. The answer is via **Pallet-Revive**, so let's check that out briefly now!"
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-5-step-05.png?alt=media&token=aa435c93-9012-4f90-87aa-cf675f84f8d8",
+        "title": "Revive",
+        "detailsMarkdown": "This module provides the functionality for the Polkadot runtime to execute PolkaVM smart-contracts. It's basically a heavily modified 'pallet_contracts' fork, and is the Solidity compiler for PolkaVM.\n\nIt's also worth mentioning that this pallet compiles Rust code too!\n\nThe diagram above provides a brief overview of how different languages get to work on Polkadot's Asset Hub.",
+        "resources": [
           {
-            "type": "plainString",
-            "value": "Change value of ExistentialDeposit from 500 to"
+            "label": "Pallet-Revive",
+            "url": "https://crates.io/crates/pallet-revive?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
           },
           {
-            "type": "copyToClipboard",
-            "value": "1000"
+            "label": "Asset-Hub",
+            "url": "https://docs.rs/crate/asset-hub-polkadot-runtime/latest?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
           }
         ]
       },
       {
-        "id": 5,
-        "imageUrl": "https://i.imgur.com/bi4P7tC.jpg",
-        "title": "What is Polkadot's primary decision-making mechanism?",
-        "choices": [
-          "Council voting",
-          "Referenda",
-          "Treasury proposals"
-        ],
-        "correctChoice": "Referenda"
-      },
-      {
         "id": 6,
-        "imageUrl": "https://i.imgur.com/RsniY19.png",
-        "title": "Scalability solutions",
-        "details": "We’ll be honest, many blockchains really don’t scale well and can be quite slow, and this is a big issue for the Web3 ecosystem. But fear not, because Polkadot offers several solutions. One of these is Cross-Chain Message Passing (XCMP) which is responsible for data transfer between different blockchains. Other solutions include sharding, the parachains architecture and much more. With its unique architecture and approach to parachain development, Polkadot is a key player in increasing blockchain scalability."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-06.png?alt=media&token=b8c0723e-a928-4f8b-bc59-197ee5bdcee3",
+        "title": "Understanding PolkaVM",
+        "detailsMarkdown": "We've mentioned PolkaVM a couple of times now. So what is PolkaVM, and why does it matter?\n\nPolkaVM is a RISC V-based virtual machine designed specifically for Polkadot. It offers significant performance improvements over traditional EVMs (Ethereum Virtual Machines) and serves as the execution environment for smart contracts on Polkadot's Asset Hub.\n\nThe key advantages of PolkaVM include:\n\n- Better performance and efficiency than EVM\n- Support for both Solidity and WASM smart contracts\n- Integration with Polkadot's native security model\n- Designed specifically for Polkadot's architecture\n\nPallet-Revive, which we mentioned earlier, is the module that enables the Polkadot runtime to execute PolkaVM smart contracts. It essentially acts as the compiler that translates Solidity code into instructions that PolkaVM can execute."
       },
       {
         "id": 7,
-        "imageUrl": "https://i.imgur.com/bi4P7tC.jpg",
-        "title": "How does Polkadot address scalability issues?",
-        "choices": [
-          "By using a single, powerful blockchain with better hardware",
-          "Through sharding alone ",
-          "By using a new approach to blockchain scalability which leverages new innovations such as sharding, XCMP, parachains and more"
+        "title": "Adding Westend",
+        "detailsMarkdown": "Now that we've learned about PolkaVM, let's add Westend to Metamask! We can do this by adding the below network configs:",
+        "resources": [
+          {
+            "label": "Polkadot Faucet",
+            "url": "https://faucet.polkadot.io/westend?parachain=1000?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
         ],
-        "correctChoice": "By using a new approach to blockchain scalability which leverages new innovations such as sharding, XCMP, parachains and more"
+        "code": "Network name: Asset-Hub Westend Testnet\nRPC URL URL: https://westend-asset-hub-eth-rpc.polkadot.io\nChain ID: 420420421\nCurrency Symbol: WND\nBlock Explorer URL: https://westend-asset-hub-eth-explorer.parity.io",
+        "language": "yaml"
       },
       {
         "id": 8,
-        "imageUrl": "https://i.imgur.com/NoIsnh1.png",
-        "title": "Funding the future",
-        "details": "Polkadot's treasury is responsible for funding network development and growth, sort of like a governing body funding different projects that will contribute to society. The treasury operates by allocating funds to approved proposals, helping support innovation in the Polkadot ecosystem."
+        "title": "MetaMask, now with Polkadot!",
+        "details": "This is what our users will see! They can just connect up their beloved MetaMask and off they go! Pretty epic, right?",
+        "wallets": [
+          {
+            "name": "MetaMask",
+            "imageUrl": "https://i.imgur.com/Vgz54rF.png",
+            "address": "Wallet 1 : 0xB3574...e7087",
+            "networkFees": "0.000035 ETH",
+            "changes": "No assets changes"
+          }
+        ]
       },
       {
         "id": 9,
-        "imageUrl": "https://i.imgur.com/dLZfT1R.png",
-        "title": "Navigating upgrades",
-        "details": "If you dig into its history, Polkadot's ecosystem is continuously evolving. Staying ahead involves anticipating and adapting to network upgrades and improvements. This means that you’ll need to be on the lookout for what’s new in the space, and how to adapt to new developments."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-07.png?alt=media&token=b9ee94f5-c4ae-4b75-9618-7d59a7a021aa",
+        "title": "Contract structure",
+        "detailsMarkdown": "If we're new to smart contracts, they generally have a couple of important parts. Here's how a smart contract would work in the context of the burger restaurant example we're setting up:\n\n- **Storage:** This is the storage of the contract. We can store things like receipts, total burgers left, etc.\n- **Constructor:** This is used for initialising the storage with values. We can think of it as the method that sets up the contract when it starts up for the first time.\n- **Message:** These are the functions/methods which users or other contracts can call to interact with the contract.\n- **Events:** Events are crucial for smart contracts as they provide a way to communicate with the outside world. For our burger shop, we might emit events when an order is placed, when payment is received, or when an order is ready. These events can be captured by frontend applications to update the UI or notify users.\n- **Error handling:** Smart contracts need robust error handling to deal with unexpected inputs or conditions. For example, our burger shop might need custom errors for when a customer tries to order an item that's out of stock or when payment is insufficient.\n- **Access control:** Many contracts need to restrict certain functions to specific roles. In our burger shop, only the owner might be able to update prices or add new menu items.\n\nThese components work together to create a fully functional smart contract that can securely manage state and interact with users and other contracts on the blockchain."
       },
       {
         "id": 10,
-        "imageUrl": "https://i.imgur.com/76nfd9o.png",
-        "title": "Connecting blockchains and the community",
-        "details": "We’ve built a parachain, now what? There are plenty of ways of connecting with other developers like you and getting live support on your own journey. If you’re facing any issues, chances are some other builder has as well and can help you with your problem. Check out the Polkadot StackExchange, for example!"
+        "title": "When native smart contracts are live on Polkadot, they will be executed on:",
+        "choices": [
+          "EVM",
+          "PVM",
+          "SVM",
+          "Wasm"
+        ],
+        "correctChoice": "PVM"
       },
       {
         "id": 11,
-        "imageUrl": "https://i.imgur.com/oyLsEvZ.png",
-        "title": "Launch your project!",
-        "details": "But hey, there’s more! On top of just reaching out to people online, make sure you check out some regional hackathons or meet-ups between Polkadot or Web3 enthusiasts. If you’re living close to a major city, chances are there’s something going on near you! Many different parachains offer various grants that can be an amazing stepping stone for funding your Web3 project."
+        "title": "Adding the constructor",
+        "detailsMarkdown": "Let's start by adding the constructor to our contract. If we're already familiar with Solidity, this is just the same as usual!",
+        "code": "// Constructor\nconstructor() {\n    owner = msg.sender;\n}",
+        "language": "solidity"
       },
       {
         "id": 12,
-        "imageUrl": "https://i.imgur.com/20mi7kJ.png",
-        "title": "Polkadot Visionary!",
-        "details": "You've successfully built a parachain, forging a bridge between islands with the help of pallets. You've equipped yourself with invaluable knowledge to launch your Polkadot network with confidence. There are so many different ways of maximizing Polkadot’s utility, and a bunch of parachains have already done so! Keep exploring different parachains and make a lasting impact on the ecosystem! We can’t wait to see what you build!"
+        "title": "Errors",
+        "detailsMarkdown": "When something goes wrong, we need to handle it! Maybe someone submitted an order for an item which isn't on the menu, for example.\n\nSo here we've written a couple of simple custom error types. Notice how these errors are no different when we're writing Solidity for Polkadot, than from any other EVM!",
+        "code": "  // Custom Error Types\n   error PaymentError();\n   error OrderNotCompleted();",
+        "language": "solidity"
+      },
+      {
+        "id": 13,
+        "title": "Get an order",
+        "detailsMarkdown": "Now let's try getting one of the orders so we can process it!",
+        "code": "// Get a single order by ID\nfunction getSingleOrder(uint32 id) public view returns (Order memory) {\n    // TODO: Let's return the mapping\n}",
+        "language": "solidity"
+      },
+      {
+        "id": 14,
+        "title": "Get an order",
+        "description": "Complete the code to return the order for processing.",
+        "hint": "Return the order from the `ordersMapping` using the provided `id`.",
+        "orderedAnswer": [
+          "return ",
+          "ordersMapping",
+          "[id]",
+          ";"
+        ],
+        "startingCode": "// Get a single order by ID\nfunction getSingleOrder(uint32 id) public view returns (Order memory) {\n  \n}",
+        "code": "// Get a single order by ID\nfunction getSingleOrder(uint32 id) public view returns (Order memory) {\n  return ordersMapping[id];\n}",
+        "language": "solidity",
+        "cursorStartingPosition": 102
+      },
+      {
+        "id": 15,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-08.png?alt=media&token=ab1efc1c-0070-46b3-b4ac-252a3490f5eb",
+        "title": "Order, ready!",
+        "detailsMarkdown": "Sweet! We've now added a new feature that gets an order from storage. All on Polkadot!"
+      },
+      {
+        "id": 16,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-09.png?alt=media&token=63a061dd-31b9-458d-b699-d21c27c44e2e",
+        "title": "Deploying our contract",
+        "detailsMarkdown": "When it comes to deploying, we can do it like we normally do on Ethereum: with our favourite [Remix IDE](https://remix.polkadot.io/?utm_source=easya&utm_medium=easya&utm_campaign=challenges)! It literally doesn't get simpler than that. \n\nWe just paste in our smart contract and compile it using the built-in compiler. Then all we need to do is connect it up to the Westend testnet with Metamask and hit the deploy button!",
+        "resources": [
+          {
+            "label": "How To Deploy A Smart Contract On Asset Hub",
+            "url": "https://contracts.polkadot.io/deploy-your-first-contract?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
+      },
+      {
+        "id": 17,
+        "title": "Doing it live!",
+        "detailsMarkdown": "We'll deploy the [create-polkadot-dapp](https://github.com/paritytech/create-polkadot-dapp/blob/master/templates/react-solidity/contracts/Storage.sol?utm_source=easya&utm_medium=easya&utm_campaign=challenges) smart template smart contract here. Then you can try deploying the burger shop contract we just wrote on your own! Here's the start of the contract. For now, we're just missing the last function to retrieve the number!",
+        "code": "// SPDX-License-Identifier: GPL-3.0\n\npragma solidity >=0.8.2 <0.9.0;\n\n/**\n * @title Storage\n * @dev Store & retrieve value in a variable\n * @custom:dev-run-script ./scripts/deploy_with_ethers.ts\n */\ncontract Storage {\n  uint256 number;\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function store(uint256 num) public {\n    number = num;\n  }\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function addMoney(uint256 num) public payable {\n    number = num;\n  }\n}",
+        "language": "solidity"
+      },
+      {
+        "id": 18,
+        "title": "Complete the function to return the number",
+        "language": "solidity",
+        "initialCode": "  /**\n   * @dev Return value\n     * @return value of 'number'\n     */\n  function retrieve() public view returns (uint256){\n\n\n  }\n}\n",
+        "validCodes": [
+          "  /**\n   * @dev Return value\n     * @return value of 'number'\n     */\n  function retrieve() public view returns (uint256){\n    return number;\n  }\n}\n"
+        ],
+        "enhancedHint": [
+          {
+            "type": "plainString",
+            "value": "Add "
+          },
+          {
+            "type": "copyToClipboard",
+            "value": "return number;"
+          },
+          {
+            "type": "plainString",
+            "value": " after (uint256){"
+          }
+        ]
+      },
+      {
+        "id": 19,
+        "title": "Time to deploy!",
+        "details": "Now we can finally go live! Tap on the deploy button and we'll deploy that contract onto the Westend testnet. We'll then be able to check it out on Subscan (one of Polkadot's block explorers)! This may take a moment or two, since we're literally deploying live onto the Westend network!",
+        "language": "solidity",
+        "dialogTitle": "Deployed",
+        "dialogDescription": "Check it out live on the Subscan explorer!"
+      },
+      {
+        "id": 20,
+        "title": "Epic work! We're now live!",
+        "details": "We've just deployed our very own smart contract live onto the Westend network. Bask in the glory of the smart contract you just wrote, as well as some of the helper files we made to help!",
+        "codeSnippets": [
+          {
+            "language": "solidity",
+            "topLevelName": "Storage.sol",
+            "editable": true,
+            "code": "// SPDX-License-Identifier: GPL-3.0\n\npragma solidity >=0.8.2 <0.9.0;\n\n/**\n * @title Storage\n * @dev Store & retrieve value in a variable\n * @custom:dev-run-script ./scripts/deploy_with_ethers.ts\n */\ncontract Storage {\n  uint256 number;\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function store(uint256 num) public {\n    number = num;\n  }\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function addMoney(uint256 num) public payable {\n    number = num;\n  }\n\n  /**\n   * @dev Return value\n     * @return value of 'number'\n     */\n  function retrieve() public view returns (uint256){\n    return number;\n  }\n}"
+          },
+          {
+            "language": "typescript",
+            "editable": false,
+            "topLevelName": "build.ts",
+            "code": "import { compile } from \"@parity/revive\";\nimport { readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from \"fs\";\nimport path from \"path\";\n\n// based on https://github.com/paritytech/contracts-boilerplate/tree/e86ffe91f7117faf21378395686665856c605132/ethers/tools\n\nconst buildDir = \".build\";\nconst contractsOutDir = path.join(buildDir, \"contracts\");\nrmSync(contractsOutDir, { recursive: true, force: true });\nmkdirSync(contractsOutDir, { recursive: true });\n\nconst contracts = readdirSync(process.cwd()).filter((f) => f.endsWith(\".sol\"));\n\nconsole.log(\"Compiling contracts...\");\n\n(async () => {\n  for (const file of contracts) {\n    console.log(`Compiling ${file}`);\n    const name = path.basename(file, \".sol\");\n\n    const input = {\n      [name]: { content: readFileSync(file, \"utf8\") }\n    };\n\n    const out = await compile(input);\n\n    for (const contracts of Object.values(out.contracts)) {\n      for (const [name, contract] of Object.entries(contracts)) {\n        console.log(`Writing contract ${name}...`);\n        writeFileSync(\n          path.join(contractsOutDir, `${name}.json`),\n          JSON.stringify({ abi: contract.abi, bytecode: `0x${contract.evm.bytecode.object}` }, null, 2)\n        );\n      }\n    }\n  }\n})().catch(err => {\n  console.error(err);\n  process.exit(1);\n});"
+          },
+          {
+            "language": "typescript",
+            "editable": false,
+            "topLevelName": "deploy.ts",
+            "code": "import { ethers, Interface, BytesLike } from \"ethers\";\nimport path from \"path\";\nimport { readdirSync, readFileSync, writeFileSync, mkdirSync } from \"fs\";\n\n// based on https://github.com/paritytech/contracts-boilerplate/tree/e86ffe91f7117faf21378395686665856c605132/ethers/tools\n\nif (!process.env.ACCOUNT_SEED) {\n  console.error(\"ACCOUNT_SEED environment variable is required for deploying smart contract\");\n  process.exit(1);\n}\n\nif (!process.env.RPC_URL) {\n  console.error(\"RPC_URL environment variable is required for deploying smart contract\");\n  process.exit(1);\n}\n\nconst provider = new ethers.JsonRpcProvider(process.env.RPC_URL);\nconst wallet = ethers.Wallet.fromPhrase(process.env.ACCOUNT_SEED, provider);\n\nconst buildDir = \".build\";\nconst contractsOutDir = path.join(buildDir, \"contracts\");\nconst deploysDir = path.join(\".deploys\", \"deployed-contracts\");\nmkdirSync(deploysDir, { recursive: true });\n\nconst contracts = readdirSync(contractsOutDir).filter((f) => f.endsWith(\".json\"));\n\ntype Contract = {\n  abi: Interface,\n  bytecode: BytesLike,\n}\n\n(async () => {\n  for (const file of contracts) {\n    const name = path.basename(file, \".json\");\n    const contract = JSON.parse(readFileSync(path.join(contractsOutDir, file), \"utf8\")) as Contract;\n    const factory = new ethers.ContractFactory(\n      contract.abi,\n      contract.bytecode,\n      wallet\n    );\n\n    console.log(`Deploying contract ${name}...`);\n    const deployedContract = await factory.deploy();\n    await deployedContract.waitForDeployment();\n    const address = await deployedContract.getAddress();\n\n    console.log(`Deployed contract ${name}: ${address}`);\n\n    const fileContent = JSON.stringify({\n      name,\n      address,\n      abi: contract.abi,\n      deployedAt: Date.now()\n    });\n    writeFileSync(path.join(deploysDir, `${address}.json`), fileContent);\n  }\n})().catch(err => {\n  console.error(err);\n  process.exit(1);\n});"
+          }
+        ],
+        "correctCodeSnippets": [
+          {
+            "language": "solidity",
+            "topLevelName": "Storage.sol",
+            "editable": true,
+            "code": "// SPDX-License-Identifier: GPL-3.0\n\npragma solidity >=0.8.2 <0.9.0;\n\n/**\n * @title Storage\n * @dev Store & retrieve value in a variable\n * @custom:dev-run-script ./scripts/deploy_with_ethers.ts\n */\ncontract Storage {\n  uint256 number;\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function store(uint256 num) public {\n    number = num;\n  }\n\n  /**\n   * @dev Store value in variable\n     * @param num value to store\n     */\n  function addMoney(uint256 num) public payable {\n    number = num;\n  }\n\n  /**\n   * @dev Return value\n     * @return value of 'number'\n     */\n  function retrieve() public view returns (uint256){\n    return number;\n  }\n}"
+          },
+          {
+            "language": "typescript",
+            "editable": false,
+            "topLevelName": "build.ts",
+            "code": "import { compile } from \"@parity/revive\";\nimport { readFileSync, writeFileSync, readdirSync, rmSync, mkdirSync } from \"fs\";\nimport path from \"path\";\n\n// based on https://github.com/paritytech/contracts-boilerplate/tree/e86ffe91f7117faf21378395686665856c605132/ethers/tools\n\nconst buildDir = \".build\";\nconst contractsOutDir = path.join(buildDir, \"contracts\");\nrmSync(contractsOutDir, { recursive: true, force: true });\nmkdirSync(contractsOutDir, { recursive: true });\n\nconst contracts = readdirSync(process.cwd()).filter((f) => f.endsWith(\".sol\"));\n\nconsole.log(\"Compiling contracts...\");\n\n(async () => {\n  for (const file of contracts) {\n    console.log(`Compiling ${file}`);\n    const name = path.basename(file, \".sol\");\n\n    const input = {\n      [name]: { content: readFileSync(file, \"utf8\") }\n    };\n\n    const out = await compile(input);\n\n    for (const contracts of Object.values(out.contracts)) {\n      for (const [name, contract] of Object.entries(contracts)) {\n        console.log(`Writing contract ${name}...`);\n        writeFileSync(\n          path.join(contractsOutDir, `${name}.json`),\n          JSON.stringify({ abi: contract.abi, bytecode: `0x${contract.evm.bytecode.object}` }, null, 2)\n        );\n      }\n    }\n  }\n})().catch(err => {\n  console.error(err);\n  process.exit(1);\n});"
+          },
+          {
+            "language": "typescript",
+            "editable": false,
+            "topLevelName": "deploy.ts",
+            "code": "import { ethers, Interface, BytesLike } from \"ethers\";\nimport path from \"path\";\nimport { readdirSync, readFileSync, writeFileSync, mkdirSync } from \"fs\";\n\n// based on https://github.com/paritytech/contracts-boilerplate/tree/e86ffe91f7117faf21378395686665856c605132/ethers/tools\n\nif (!process.env.ACCOUNT_SEED) {\n  console.error(\"ACCOUNT_SEED environment variable is required for deploying smart contract\");\n  process.exit(1);\n}\n\nif (!process.env.RPC_URL) {\n  console.error(\"RPC_URL environment variable is required for deploying smart contract\");\n  process.exit(1);\n}\n\nconst provider = new ethers.JsonRpcProvider(process.env.RPC_URL);\nconst wallet = ethers.Wallet.fromPhrase(process.env.ACCOUNT_SEED, provider);\n\nconst buildDir = \".build\";\nconst contractsOutDir = path.join(buildDir, \"contracts\");\nconst deploysDir = path.join(\".deploys\", \"deployed-contracts\");\nmkdirSync(deploysDir, { recursive: true });\n\nconst contracts = readdirSync(contractsOutDir).filter((f) => f.endsWith(\".json\"));\n\ntype Contract = {\n  abi: Interface,\n  bytecode: BytesLike,\n}\n\n(async () => {\n  for (const file of contracts) {\n    const name = path.basename(file, \".json\");\n    const contract = JSON.parse(readFileSync(path.join(contractsOutDir, file), \"utf8\")) as Contract;\n    const factory = new ethers.ContractFactory(\n      contract.abi,\n      contract.bytecode,\n      wallet\n    );\n\n    console.log(`Deploying contract ${name}...`);\n    const deployedContract = await factory.deploy();\n    await deployedContract.waitForDeployment();\n    const address = await deployedContract.getAddress();\n\n    console.log(`Deployed contract ${name}: ${address}`);\n\n    const fileContent = JSON.stringify({\n      name,\n      address,\n      abi: contract.abi,\n      deployedAt: Date.now()\n    });\n    writeFileSync(path.join(deploysDir, `${address}.json`), fileContent);\n  }\n})().catch(err => {\n  console.error(err);\n  process.exit(1);\n});"
+          }
+        ]
+      },
+      {
+        "id": 21,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-5-step-10.png?alt=media&token=2bb0a94e-9259-48c3-a3f8-f9c5301d650b",
+        "title": "Build with ink!",
+        "detailsMarkdown": "We've just written a Polkadot smart contract with Solidity. But we can also do this with another language: ink!\n\nInk! is a language which is based on Rust, and is specifically designed for writing smart contracts (focusing on safety, readability and overall just being better to use).\n\nInk! smart contracts are also portable, which means that they can be deployed on any blockchain that supports WebAssembly (WASM).",
+        "resources": [
+          {
+            "label": "Ink! Version 6",
+            "url": "https://use.ink/6.x/?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
+          }
+        ]
+      },
+      {
+        "id": 22,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-11.png?alt=media&token=4044f053-f64e-4c47-99e3-d78558ee98ea",
+        "title": "Contract structure",
+        "detailsMarkdown": "Ink! smart contracts aren't totally alien, so don't let the fact that it's a different language with a new name scare you. These smart contracts follow the same general structure as Solidity smart contracts (after all, the logic is the same) - it's just that the syntax and way we import things are different.\n\nWe don't need to go into a full course on ink!, but let's have a quick look at it in case you want to go down that rabbit hole another time."
+      },
+      {
+        "id": 23,
+        "title": "Storage",
+        "detailsMarkdown": "Ink! smart contracts rely on attributes (in other words, metadata applied to a module, crate, or item). \n\nTo store types in storage, we define them with **#\\[ink(storage)**]. In our example, we have a **struct** with properties for storing orders into our burger shop.",
+        "code": "#[ink(storage)]\npub struct BurgerShop {\n  orders: Vec<(u32, Order)>,\n  orders_mapping: Mapping<u32, Order>,\n}",
+        "language": "rust"
+      },
+      {
+        "id": 24,
+        "title": "Storing variables",
+        "detailsMarkdown": "This is where we declare all the variables that need to persist across contract interactions. Things like balances, owner addresses, or contract states. Just like in Solidity, these variables represent the data stored on the blockchain.",
+        "code": "#[ink(storage)]\npub struct BurgerShop {\n  orders: Vec<(u32, Order)>,\n  orders_mapping: Mapping<u32, Order>,\n}",
+        "language": "rust"
+      },
+      {
+        "id": 25,
+        "title": "Configure types for storage",
+        "detailsMarkdown": "Notice the **ink::storage::traits::StorageLayout** attribute below. This is implemented with types to allow them to be stored on the blockchain. Any type that needs to be stored must implement this attribute.",
+        "code": "\n// The order type\n#[cfg_attr(\n  feature = \"std\",\n  derive(ink::storage::traits::StorageLayout))\n]\npub struct Order {\n  list_of_items: Vec<FoodItem>,\n  customer: AccountId,\n  total_price: Balance,\n  paid: bool,\n  order_id: u32,\n}",
+        "language": "rust"
+      },
+      {
+        "id": 26,
+        "title": "What attribute defines storage in Ink!?",
+        "choices": [
+          "#[ink(constructor)]",
+          "#[ink(message)]",
+          "#[ink(storage)]",
+          "#[ink(events)]"
+        ],
+        "correctChoice": "#[ink(storage)]"
+      },
+      {
+        "id": 27,
+        "title": "Constructor",
+        "detailsMarkdown": "The **#\\[ink(constructor)]** attribute defines the constructor. Here, we're initialising our contract storage with a **bool** type in the template.\n\nConstructors, just like normal, initialise the contract's state when it's deployed onto the blockchain. Constructors can accept parameters and set values for storage fields, such as assigning an owner or an initial balance.\n\nIf we need, we can even have multiple constructors for different initialization scenarios.",
+        "code": "#[ink(constructor)]\npub fn new() -> Self {\n  let order_storage_vector: Vec<(u32, Order)> = Vec::new();\n  let order_storage_mapping = Mapping::new();\n  Self {\n    orders: order_storage_vector,\n    orders_mapping: order_storage_mapping,\n  }\n}",
+        "language": "rust"
+      },
+      {
+        "id": 28,
+        "title": "Messages",
+        "detailsMarkdown": "Messages are defined using the **#\\[ink(message)]** attribute. These are the functions/methods users or other contracts can call to interact with the contract.\n\nMessages can modify the contract's state (mutable) or simply return information (immutable).\n\nHere, we're getting a single order from storage.",
+        "code": "#[ink(message)]\n/// gets a single order from storage\npub fn get_single_order(&self, id: u32) -> Order {\n  // get single order\n  let single_order = self.orders_mapping.get(id).expect(\"Oh no, Order not found\");\n  single_order\n}",
+        "language": "rust"
+      },
+      {
+        "id": 29,
+        "title": "Which of these is not a valid attribute?",
+        "choices": [
+          "#[ink(message)]",
+          "#[ink(constructor)]",
+          "#[ink(error)]",
+          "#[ink(storage)]"
+        ],
+        "correctChoice": "#[ink(error)]"
+      },
+      {
+        "id": 30,
+        "title": "Errors",
+        "detailsMarkdown": "Just like we'd expect, we also need to handle errors in our ink! smart contracts. They're typically represented as **enums** in ink!\n\nHere we've got 2 errors we want to return. So we'll need to make them into an enum. Let's do that next!",
+        "code": "/// Error types for different errors.\nPaymentError,\nOrderNotCompleted,\n}",
+        "language": "rust"
+      },
+      {
+        "id": 31,
+        "title": "Create the enum",
+        "hint": "Define a public enum named `BurgerShopError` that wraps the existing error types.",
+        "orderedAnswer": [
+          "pub ",
+          "enum ",
+          "BurgerShopError ",
+          "{ "
+        ],
+        "startingCode": "/// Error types for different errors.\nPaymentError,\nOrderNotCompleted,\n}",
+        "code": "pub enum BurgerShopError {\n  /// Error types for different errors.\n  PaymentError,\n  OrderNotCompleted,\n}",
+        "language": "rust",
+        "cursorStartingPosition": 0
+      },
+      {
+        "id": 32,
+        "title": "In ink!, errors are usually represented as:",
+        "choices": [
+          "Structs",
+          "Enums",
+          "Interfaces",
+          "Vectors"
+        ],
+        "correctChoice": "Enums"
+      },
+      {
+        "id": 33,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-12.png?alt=media&token=4d58dd76-aed8-4093-b374-b4dfe097c7b1",
+        "title": "Events",
+        "detailsMarkdown": "Events are defined using the **#\\[ink(event)]** attribute. Just like with any smart contract, they allow the contract to emit logs that can be captured and analyzed by off-chain systems. \n\nLet's create an event type to notify the shop owner that an order has arrived!"
+      },
+      {
+        "id": 34,
+        "title": "Adding the missing event type",
+        "detailsMarkdown": "Complete the code, by typing **#[ink(event)]** on top of the struct.",
+        "hint": "Add the `#[ink(event)]` attribute above the struct definition.",
+        "enhancedHint": [
+          {
+            "type": "plainString",
+            "value": "Add the following line just before `pub struct GetAllOrders`:"
+          },
+          {
+            "type": "copyToClipboard",
+            "value": "#[ink(event)]"
+          }
+        ],
+        "startingCode": "/// Add the missing event type right below this comment\n\npub struct GetAllOrders {\n  #[ink(topic)]\n  orders: Vec<(u32, Order)>,\n}",
+        "correctCode": "/// Add the missing event type right below this comment\n#[ink(event)]\npub struct GetAllOrders {\n  #[ink(topic)]\n  orders: Vec<(u32, Order)>,\n}",
+        "language": "rust"
+      },
+      {
+        "id": 35,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-5-step-13.png?alt=media&token=e45dbed1-b6e8-4eec-9777-ade0690917f4",
+        "title": "That's it!",
+        "detailsMarkdown": "Epic work! We've now written our very own smart contracts in Solidity as well as ink! all on Polkadot. We're some of the first people ever to have done that on Polkadot's Asset Hub. So we should definitely be feeling pretty special right now!\n\nWhile smart contracts are powerful and all we need for most applications, some projects require even more customization and control. That's where Polkadot shows its true strength: the ability to build our own blockchain from the ground up, batteries included. We'll check this out in the next challenge."
       }
     ]
   },
   {
-    "title": "Bonus: Join the community",
+    "title": "Building a custom blockchain",
     "index": 6,
     "challengeSteps": [
       {
         "id": 1,
-        "imageUrl": "https://i.imgur.com/7uoHpmF.png",
-        "title": "Boss mode",
-        "details": "So, you've made it this far. What next? In this bonus challenge we've designed something extra special for you to show you're a true Polkadot mastermind. Will this be challenging? Yes. Will it stretch you? Absolutely. But will it be worth it? Totally. If you complete this challenge you'll be able to wear it as a badge of honour. If you aren't able to then you're still a brilliant Polkadot developer for getting this far! So here we go!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-01.png?alt=media&token=7127902b-0d94-445c-bcbf-6b376b43bb61",
+        "title": "Building blockchains",
+        "detailsMarkdown": "We've just covered building smart contracts on Polkadot. For almost every developer and project, that's all we need to know. We need a quick, fast way to get our code running on the blockchain. So deploying our smart contracts on Polkadot is the way to go.\n\nBut sometimes, a project needs tons of customisability, its own dedicated throughput, and in other words needs its own blockchain.\n\nPolkadot supports this natively via the [Polkadot SDK](https://polkadot.com/platform/sdk), which is a framework for building blockchains. In this challenge, we'll have a quick look at how this works."
       },
       {
         "id": 2,
-        "title": "Learn how to contribute to Polkadot",
-        "details": "As your final step in the journey, let's learn how to make the changes we want to see in Polkadot! That's the beauty of Polkadot being fully open source; if you see something you want to improve, you can do it right away, all by yourself! Read all about how to do so on this webpage.",
-        "url": "https://wiki.polkadot.network/docs/contributing"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-02.png?alt=media&token=79935c30-b143-43fe-97ee-800d31085056",
+        "title": "The Polkadot SDK",
+        "detailsMarkdown": "Polkadot supports building custom blockchains natively through the Polkadot SDK (Software Development Kit). This framework provides all the tools and components we need to create our own blockchain on Polkadot.\n\nThe Polkadot SDK includes:\n\n- Core blockchain functionality (consensus, networking, transaction processing)\n- Development tools and libraries\n- Testing frameworks\n- And most importantly, the modular runtime system called FRAME"
       },
       {
         "id": 3,
-        "choices": [
-          "False",
-          "True"
-        ],
-        "correctChoice": "False",
-        "title": "You can update the Polkadot Wiki by committing your changes directly to the master branch"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-03.png?alt=media&token=7e495434-7457-46c2-92b8-33c76ed84212",
+        "title": "FRAME",
+        "detailsMarkdown": "[FRAME](https://docs.polkadot.com/develop/parachains/customize-parachain/overview/) (Framework for Runtime Aggregation of Modularized Entities) is a crucial component of the Polkadot SDK. It provides modular building blocks, or \"pallets,\" that developers can use to create custom runtimes for parachains without having to build everything from scratch.\n\nThink of FRAME as a collection of pre-built components that handle specific blockchain functions. By combining these pallets, we can quickly assemble a blockchain with exactly the features we need. This is what enables Polkadot's \"build your own blockchain\" approach - we can customize nearly every aspect of our chain while leveraging pre-built, battle-tested components.\n\nWith the Polkadot SDK and FRAME, we can build a custom blockchain tailored to our specific needs, which we can then deploy as a parachain on Polkadot or run as a standalone chain!"
       },
       {
         "id": 4,
-        "imageUrl": "https://i.imgur.com/U6JRF9W.png",
-        "title": "Becoming a great community member",
-        "details": "In any community, whether it's a city or just your local neighbourhood, the best community members give back and help newcomers join! The Polkadot community is no different. The best community members help newbies learn the ropes and make Polkadot accessible to everyone!\n\nAs we all know, learning how to develop on a new blockchain is one of the hardest things for developers. So great community members help write tutorials, guides, and even just help keep documentation up to date! This means that newbies can easily learn about Polkadot and the community will just get stronger and stronger. See if you can find something you'd like to update in the link below!",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-04.png?alt=media&token=af5ee967-b95e-43a4-8a48-a2fa6a3e0496",
+        "title": "FRAME pallets examples",
+        "detailsMarkdown": "We've talked about pallets a lot, but what actually are they?\n\nWe can think of pallets as services with specific features that help us achieve a goal.\n\nHere are some examples of important pallets with their specific functions:\n\n- **Balances:** This pallet manages account balances and token transfers. It provides functions to create accounts, transfer tokens between accounts, check balances, and handle account freezing/thawing. It's essential for any blockchain that needs a native currency or token system.\n- **Uniques:** This is a comprehensive module for creating and managing non-fungible tokens (NFTs). It handles minting, transferring, and burning NFTs with features like metadata management, attributes, and collection management. It provides the infrastructure for digital collectibles, art, and other unique assets.\n- **Staking:** This pallet implements Nominated Proof-of-Stake consensus. It manages validator selection, delegation of stake, reward distribution, and slashing mechanisms. It includes functionalities for nominating validators, claiming rewards, and handling the bonding/unbonding periods.\n- **Democracy:** Enables on-chain governance with proposal submission, voting mechanisms, and execution of approved changes. It implements referenda, delegation, and vote weighting based on token holdings or identity.\n- **Contracts:** Provides WebAssembly smart contract functionality, allowing our blockchain to host and execute smart contracts. It handles contract deployment, execution, gas metering, and state management."
+      },
+      {
+        "id": 5,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-05.png?alt=media&token=ff4f63b2-7451-498e-9ff7-2c91eea699c8",
+        "title": "FRAME runtime",
+        "detailsMarkdown": "So how does FRAME actually work?\n\nThe FRAME runtime provides the building blocks to implement the core logic of our blockchain. We can think of it like a modular framework where we can pick and choose which components (pallets) we want in our blockchain."
+      },
+      {
+        "id": 6,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-06.png?alt=media&token=4a43f739-6f10-4202-ad10-8654115a815b",
+        "title": "Getting our traits",
+        "detailsMarkdown": "Remember that in Rust (the programming language used for Polkadot development), **traits** are similar to interfaces in other languages - they define a set of methods or behaviors that a type must implement. In FRAME, each pallet defines one or more configuration traits that determine how that pallet will behave when included in our blockchain.\n\nFor example, when we add the Balances pallet to our blockchain, we need to tell it:\n\n- What type to use for account IDs\n- What type to use for storing balances\n- What events it should emit\n- What hooks it should trigger on certain actions\n\nAll these configuration options are defined through traits that we implement for our specific blockchain."
+      },
+      {
+        "id": 7,
+        "title": "What this looks like",
+        "detailsMarkdown": "Here's what a basic runtime config looks like!",
+        "code": "#![cfg_attr(not(feature = \"std\"), no_std)]\n\nuse frame_support::traits::{Currency, OnFinalize, OnInitialize};\nuse frame_system as system;\n\n// The Balances pallet's currency type.\ntype Balance = u128;\n\npub struct Runtime;\n\n// Implementing the runtime configuration for the FRAME System pallet\nimpl system::Config for Runtime {\n   // The identifier for accounts (e.g., user addresses).\n   type AccountId = u32;\n   // A generic type for managing the balance of accounts.\n   type Balance = Balance;\n   // Specifies the block number type (e.g., u32 or u64).\n   type BlockNumber = u64;\n   // Runtime event type (handles events emitted by pallets).\n   type RuntimeEvent = RuntimeEvent;\n   // Define how the runtime tracks weights (transaction costs).\n   type WeightInfo = ();\n}",
+        "language": "rust"
+      },
+      {
+        "id": 8,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-07.png?alt=media&token=889e0a19-34d6-4232-8b60-63f5f552c4fc",
+        "title": "Enough of pallets",
+        "detailsMarkdown": "We're not going to talk too much about building our own blockchains just yet. We'll leave that for another time! But we hope we've whet your appetite for how much we can do in Polkadot. Another time, we'll come onto Polkadot Cloud and what it can do.\n\nFor now though, we should be pretty chuffed with ourselves that we've learnt something huge: how smart contracts have come to Polkadot via Asset Hub, and that we can always move to our own custom blockchain when we need it. We can be some of the very first people in the world to deploy our smart contracts on Polkadot's Asset Hub. And that's what we should focus on doing!"
+      },
+      {
+        "id": 9,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fupdated%2Fmodule-6-step-08.png?alt=media&token=5e2b0004-27ed-438a-bfb0-7326f674a3d3",
+        "title": "A real-world example",
+        "detailsMarkdown": "We don't mean to tease, but before we head off pallets and custom blockchains, let's whet our appetite just once more by checking out a live example of one!\n\nLet's have a look at Aventus."
+      },
+      {
+        "id": 10,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-09.png?alt=media&token=e25a4e16-2bb9-41af-b272-e2b42a4cecaa",
+        "title": "Aventus: Substrate and FRAME",
+        "detailsMarkdown": "[Aventus](https://aventus.network/) is a [Polkadot parachain](https://parachains.info/details/aventus_network) that demonstrates exactly how the Polkadot SDK and FRAME concepts we've explored are applied in a production environment. Their implementation shows what we can do with Polkadot.",
         "resources": [
           {
-            "label": "Polkadot Wiki",
-            "url": "https://wiki.polkadot.network/docs/learn-index"
+            "label": "Aventus Whitepaper",
+            "url": "https://github.com/Aventus-Network-Services/documentation/blob/main/resources/Aventus%20Technical%20Whitepaper%20July%202023%20Version%203.pdf?utm_source=easya&utm_medium=easya&utm_campaign=challenges"
           }
         ]
       },
       {
+        "id": 11,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-10.png?alt=media&token=20893449-dd83-4aa0-ab01-edfd8cae02cd",
+        "title": "Customisation with FRAME pallets",
+        "detailsMarkdown": "Aventus leverages FRAME's modular architecture by combining standard pallets with eight custom pallets. Just as we discussed how FRAME allows developers to pick and choose components, Aventus has created a runtime that meets their specific needs:\n\n- They use the standard **Balances pallet** we discussed earlier for token management\n- Their **NFT-Manager pallet** shows how we can implement specialized functionality beyond what's available in Substrate's default pallets\n- The **Collators-Manager pallet** also illustrates how builders can extend existing pallets (in this case, the Substrate session pallet) with additional verification logic custom to them"
+      },
+      {
+        "id": 12,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-11.png?alt=media&token=0faa056d-f8ed-48f1-89de-962e1d17ca2c",
+        "title": "Implementing traits in practice",
+        "detailsMarkdown": "Remember how we discussed that in FRAME, pallets define traits that determine their behavior? Aventus also shows this live by implementing specific configuration traits for their pallets. For example, their AvN pallet provides trait implementations that are then used by other pallets in their ecosystem."
+      },
+      {
+        "id": 13,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-12.png?alt=media&token=e234c2ec-8746-4601-906c-31126826228f",
+        "title": "Proof in the pudding",
+        "detailsMarkdown": "Aventus shows in the real world that everything we've just discussed about FRAME, traits, pallets, and runtime configuration isn't just theoretical—it's being used to build and run production blockchains that combine the security of Polkadot with the flexibility to create completely custom blockchains."
+      },
+      {
+        "id": 14,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-6-step-13.png?alt=media&token=b1820701-d657-4851-80a9-1dc1cd5112b4",
+        "title": "Blockchain mania",
+        "detailsMarkdown": "Okay, now that's finally all we'll say about building blockchains on Polkadot (for now). The truth is that we don't need blockchains for every single thing. And we don't need our own custom blockchain for every single use-case. \n\nFor most Web3 developers, we just need smart contracts and a place to deploy them. That's why we've focused on smart contracts on Asset Hub. But now that we're inspired about building on Polkadot, where should we go next? Let's see that in our next challenge!"
+      }
+    ]
+  },
+  {
+    "title": "How to launch and get funding",
+    "index": 7,
+    "challengeSteps": [
+      {
+        "id": 1,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-01.png?alt=media&token=19f02982-75e4-440f-8742-2aaaa1080436",
+        "title": "What's next",
+        "detailsMarkdown": "We've done a lot in the past few challenges. We've seen how Polkadot's changed a ton recently, from Polkadot 2.0 to getting native smart contract support via Asset Hub. Most importantly, though, we have discovered a once in a lifetime opportunity: to be one of the first people to deploy on Asset Hub.\n\nSo what's next? The answer's actually dead simple."
+      },
+      {
+        "id": 2,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-01.png?alt=media&token=19f02982-75e4-440f-8742-2aaaa1080436",
+        "title": "Come to a hackathon",
+        "detailsMarkdown": "You've got to build out your idea on Polkadot's Asset Hub. And the best place to do it is at a Polkadot hackathon. We host these all the time at EasyA. We have mentors from the ecosystem, and tons of other amazing people you can meet. It doesn't matter if it's your first time getting into Web3 - after all, that's how everyone starts off! Just come along, and you'll get all the support you'll ever need.\n\nYou can see when we're hosting our next hackathon by checking out the events section in the app!"
+      },
+      {
+        "id": 3,
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-02.png?alt=media&token=98397650-eabb-44b9-87bf-1d2b77468d84",
+        "title": "Get funded",
+        "detailsMarkdown": "We get it. Building something isn't free. It takes time, effort and money. That's why we've worked so hard to set up the Polkadot Fast-Grants. The idea behind this is to give funding super fast to people who have an idea they want to build. **Up to $10,000 approved in as fast as 72 hours.** \n\nYep, you read that right. $10,000! And if you got this far, you deserve it."
+      },
+      {
+        "id": 4,
+        "title": "How to get funded",
+        "detailsMarkdown": "All you need to do is head over to the Polkadot fast-grants and submit the application form. In fact, head over and star it right now!",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-03.png?alt=media&token=8fa87189-4c53-407d-89da-7a6b87f64e92",
+        "repoLink": "Polkadot-Fast-Grants/apply"
+      },
+      {
         "id": 5,
-        "title": "Forking time!",
-        "imageUrl": "https://imgur.com/KDAJUgn",
-        "details": "Fork the repo of Polkadot Wiki.",
-        "repoLink": "w3f/polkadot-wiki"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-04.png?alt=media&token=d36841be-322e-4701-8306-a253812bec86",
+        "title": "Extra brownie points",
+        "detailsMarkdown": "P.S. If you send us a screenshot of this page as proof that you've completed these challenges, we'll love you. We'll know you're truly dedicated to joining the Polkadot ecosystem :)"
       },
       {
         "id": 6,
-        "imageUrl": "https://i.imgur.com/ohEcMFv.png",
-        "title": "You're a great community member!",
-        "details": "Nice work! By forking that Repo, you've just become a great member of the Polkadot community. It's small things like this that make a huge difference to helping make Polkadot more accessible to newcomers. Keep it up! Even better - make updates to that fork and create a Pull Request into the main Wiki repo! Remember - no matter how small your contribution, every little helps!"
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-05.png?alt=media&token=ed1ab5e3-a229-4dec-a032-d932c7022822",
+        "title": "So much to explore",
+        "detailsMarkdown": "We could talk for hours about all the opportunities in the Polkadot ecosystem: the ambassadors programme, the conferences, the mentorship. But we won't go into those just yet. There's so much that honestly all those things can feel overwhelming sometimes. \n\nGenuinely, all you need to succeed is just those 2 things we just talked about:\n\n1. Come to an EasyA x Polkadot hackathon\n2. Get a fast-grant"
       },
       {
         "id": 7,
-        "imageUrl": "https://i.imgur.com/LblyjAA.png",
-        "title": "You're officially a Polkadot boss!",
-        "details": "Wow. That one word sums it all up! You actually did it. You defeated boss mode and have now successfully entered the league of true Polkadot masterminds. You're part of the top league of developers who were able to get this far. So it's time to celebrate! Sit back, relax, and enjoy your place in the EasyA hall of fame."
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-06.png?alt=media&token=035916ad-5af7-41c5-acf9-fec0c8313f2d",
+        "title": "And so it begins",
+        "detailsMarkdown": "That's it! Polkadot has a reputation for being super complicated and hard to get into. That might be true in some ways, but if there's one thing you should have learnt by now, it's that Polkadot just has a lot going on. We've taken a laser-focused line here into Polkadot by going directly through to smart contracts on Asset Hub, and then hackathons and fast-grants. We've done that for a reason: because if we know what we want to get out of Polkadot, we can get to it easily. We just need to know where to start.\n\nAnd for where we are now, leveraging smart contracts on Asset Hub is the way to go.\n\nSo go get it, you legend!"
       },
       {
         "id": 8,
-        "tweetReason": "Tweet about completing boss mode! Show the world what you've achieved!",
-        "tweetContent": "I've officially become a Polkadot boss! Just defeated boss mode on the @Polkadot challenges in @easya_app for #60DaysOfPolkadot! 💪\n\nProud to be part of the top league of people to be able to complete it! 🥇",
-        "tweetContentUrl": ""
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/easya-live.appspot.com/o/challenges_images%2Fnew_polkadot_content%2Fmodule-7-step-07.png?alt=media&token=22b2c789-f9ab-41d6-8879-5ed5c175ab19",
+        "title": "One more thing",
+        "detailsMarkdown": "Oh, and one more thing. Have fun while you're here too! Check out fun Polkadot projects like [Gavun Wud.](https://www.gavunwud.lol/) It's a memecoin on Polkadot named after Gavin Wood (Polkadot's mastermind). Have a look at [their Twitter](https://x.com/gavunwud) and see what they're building day to day. And play their game [Flappy Wud](https://flappywud.lol/). There's a ton of fun we can have all over on Polkadot - it doesn't just have to be about hardcore Rust development and deep tech.\n\nOkay, now that's actually it. In the words of Steve Jobs, stay hungry and stay foolish. Now go build!"
       }
     ]
   }
